@@ -13,8 +13,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS.
 
+- [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure
 
-* Azure CycleCloud: <https://learn.microsoft.com/en-us/azure/cyclecloud/?view=cyclecloud-8>
 * GCP HPC Toolkit: <https://cloud.google.com/hpc-toolkit/docs/overview>
 * Alibaba Elastic HPC: <https://www.alibabacloud.com/product/ehpc>
 * KT Cloud HPC: <https://cloud.kt.com/product/computing/hpc/>
@@ -33,13 +33,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Elastic Fabric Adapter](https://aws.amazon.com/hpc/efa/) - Network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale on AWS
 - [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) - Fully managed shared storage with the scalability and performance of the popular Lustre file system on AWS
 - [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system
-
+- [Azure Managed Lustre](https://azure.microsoft.com/en-us/products/managed-lustre#features) - Managed, pay-as-you-go file system for high-performance computing (HPC) and AI workloads on Azure
 
 ## CSP - Solution
 
 - [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service on AWS
+- [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management
+
 - [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow.
 - [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS.
+
+
 
 ## 2 ISV형 클라우드
 
@@ -70,5 +74,5 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * Altair Control: <https://altair.com/control>
 * IBM LSF Suite: <https://www.ibm.com/products/hpc-workload-management>
 * Slurm Cloud: <https://slurm.schedmd.com/elastic_computing.html>
-* MS HPC Pack: <https://learn.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps>
+- [MS HPC Pack]:(https://learn.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps) 
 
