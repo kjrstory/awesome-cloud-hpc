@@ -58,15 +58,17 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Skypilot](https://skypilot.readthedocs.io) - Framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution.
 
 
-## 2 ISV형 클라우드
+### CAE,EDS ISV
 
 
-* Ansys Cloud Direct: <https://www.ansys.com/products/cloud/ansys-cloud>
-* Simcenter Cloud HPC: <https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc/>
-* Synopsys Cloud: <https://www.synopsys.com/cloud.html>
-* Cadence Cloud: <https://www.cadence.com/en_US/home/solutions/cadence-cloud.html>
-* Altair One: <https://altair.com/altair-one>
-* Simulia Cloud: <https://www.3ds.com/products-services/simulia/products/simulia-cloud/>
+- [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - On-demand, cloud-based computing resources, including both interactive workstations and HPC clusters.
+- [Ansys Gateway](https://www.ansys.com/products/cloud/ansys-gateway) - Solution for developers, designers, and engineers who want to manage their complete Ansys Simulation & CAD/CAE developments in the cloud
+- [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc/) 
+- [Synopsys Cloud](https://www.synopsys.com/cloud.html)
+- [Cadence Cloud](https://www.cadence.com/en_US/home/solutions/cadence-cloud.html)
+- [Altair One](https://altair.com/altair-one)
+- [Simulia Cloud](https://www.3ds.com/products-services/simulia/products/simulia-cloud/)
+
 
 ## 3 SaaS형 클라우드
 
