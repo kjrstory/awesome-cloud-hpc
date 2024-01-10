@@ -14,7 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS.
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure
 - [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Open source software offered by Google Cloud that makes it easy to deploy high performance computing (HPC) environments on Google Cloud.
-* Alibaba Elastic HPC: <https://www.alibabacloud.com/product/ehpc>
+- [Alibaba E-HPC](https://www.alibabacloud.com/product/ehpc)  
 * KT Cloud HPC: <https://cloud.kt.com/product/computing/hpc/>
 * SCP HPC Cluster: <https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html>
 * Cloudy Cluster: <https://cloudycluster.com/>
@@ -24,18 +24,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## CSP - IaaS
 
-- [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors 
-- [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Gen AMD EPYC processors
-- [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors
-- [Elastic Fabric Adapter](https://aws.amazon.com/hpc/efa/) - Network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale on AWS
-- [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) - Fully managed shared storage with the scalability and performance of the popular Lustre file system on AWS
-- [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system
-- [Azure Managed Lustre](https://azure.microsoft.com/en-us/products/managed-lustre#features) - Managed, pay-as-you-go file system for high-performance computing (HPC) and AI workloads on Azure
+- [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors.
+- [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Gen AMD EPYC processors.
+- [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors.
+- [Elastic Fabric Adapter](https://aws.amazon.com/hpc/efa/) - Network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale on AWS.
+- [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) - Fully managed shared storage with the scalability and performance of the popular Lustre file system on AWS.
+- [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system.
+- [Azure Managed Lustre](https://azure.microsoft.com/en-us/products/managed-lustre#features) - Managed, pay-as-you-go file system for high-performance computing (HPC) and AI workloads on Azure.
 
 ## CSP - Solution
 
-- [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service on AWS
-- [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management
+- [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service on AWS.
+- [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management.
 - [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow.
 - [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS.
 - [GCP Batch](https://cloud.google.com/batch/) - Fully managed batch service to schedule, queue, and execute batch jobs on Google's infrastructure.
