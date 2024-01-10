@@ -5,18 +5,15 @@
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
-## 1 DIY형 클라우드
 
-## Cloud Software Provider 
-
-## CSP - Solution
+### CSP - Solution
 
 - [Amazon Web Services](https://aws.amazon.com/hpc/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/high-performance-computing)
 - [Google GCP](https://cloud.google.com/solutions/hpc)
 
 
-## CSP - Management
+### CSP - Management
 
 - [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS.
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure
@@ -26,11 +23,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution that makes it easy to deploy a variety of industry's best HPC file servers on OCI. 
 - [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015)
 - [SCP HPC Cluster](https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html) - HPC(High-performance computing) cluster environment on SCP.
-- [cloudycluster](https://cloudycluster.com) - Turn-Key Cloud HPC elastic orchestration with a familiar hpc look and feel.
-- [Rntier Cloud](https://www.rntiercloud.com)
-- [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
 
-## CSP - IaaS 
+### CSP - IaaS 
 
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors.
 - [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Gen AMD EPYC processors.
@@ -47,13 +41,21 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. 
 - [Openflight Flight Solo](https://www.openflighthpc.org/latest/docs/flight-solo/) - HPC-ready, platform-agnostic image approach to deploying HPC resources.
 
-## CSP - PaaS 
+### CSP - PaaS 
 
 - [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service on AWS.
 - [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management.
 - [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow.
 - [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS.
 - [GCP Batch](https://cloud.google.com/batch/) - Fully managed batch service to schedule, queue, and execute batch jobs on Google's infrastructure.
+
+### Platform
+
+- [cloudycluster](https://cloudycluster.com) - Turn-Key Cloud HPC elastic orchestration with a familiar hpc look and feel.
+- [Rntier Cloud](https://www.rntiercloud.com)
+- [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
+- [Covalent](https://www.covalent.xyz) - Pythonic workflow orchestration platform for scaling workloads from your laptop to any compute backend.
+- [Skypilot](https://skypilot.readthedocs.io) - Framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution.
 
 
 ## 2 ISV형 클라우드
