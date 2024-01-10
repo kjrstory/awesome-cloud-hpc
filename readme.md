@@ -65,7 +65,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Ansys Gateway](https://www.ansys.com/products/cloud/ansys-gateway) - Solution for developers, designers, and engineers who want to manage their complete Ansys Simulation & CAD/CAE developments in the cloud
 - [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc/) 
 - [Synopsys Cloud](https://www.synopsys.com/cloud.html)
-- [Cadence Cloud](https://www.cadence.com/en_US/home/solutions/cadence-cloud.html)
+- [Cadence Manged Cloud Service](https://www.cadence.com/en_US/home/solutions/cadence-cloud/managed-cloud-service.html) - EDA-optimized platform that provides a fully integrated and proven cloud environment to jump-start product design, verification, and implementation.
+- [Cadence Palladium and Protium Cloud](https://www.cadence.com/en_US/home/solutions/cadence-cloud/palladium-protium-cloud.html)
+- [Cadence OnCloud Platform](https://www.cadence.com/en_US/home/solutions/cadence-cloud/oncloud.html) - SaaS software platform for all your system design and simulation needs that can operate on any hardware, removing the requirement to run and maintain expensive infrastructure hardware.
 - [Altair One](https://altair.com/altair-one)
 - [Simulia Cloud](https://www.3ds.com/products-services/simulia/products/simulia-cloud/)
 
