@@ -15,14 +15,15 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure
 - [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Open source software offered by Google Cloud that makes it easy to deploy high performance computing (HPC) environments on Google Cloud.
 - [Alibaba E-HPC](https://www.alibabacloud.com/product/ehpc)  
-* KT Cloud HPC: <https://cloud.kt.com/product/computing/hpc/>
-* SCP HPC Cluster: <https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html>
-* Cloudy Cluster: <https://cloudycluster.com/>
-* Rntier Cloud: <http://www.clunix.com/RNTier_Cloud>
-* OpenFlightHPC: <https://www.openflighthpc.org/>
+- [OCI HPC Cluster](https://cloudmarketplace.oracle.com/marketplace/listing/67628143) - Automated HPC cluster deployment on OCI.
+- [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution that makes it easy to deploy a variety of industry's best HPC file servers on OCI. 
+- [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015)
+- [SCP HPC Cluster](https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html) - HPC(High-performance computing) cluster environment on SCP.
+- [cloudycluster](https://cloudycluster.com) - Turn-Key Cloud HPC elastic orchestration with a familiar hpc look and feel.
+- [Rntier Cloud](https://www.rntiercloud.com)
+- [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
 
-
-## CSP - IaaS
+## CSP - IaaS 
 
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors.
 - [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Gen AMD EPYC processors.
@@ -31,8 +32,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) - Fully managed shared storage with the scalability and performance of the popular Lustre file system on AWS.
 - [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system.
 - [Azure Managed Lustre](https://azure.microsoft.com/en-us/products/managed-lustre#features) - Managed, pay-as-you-go file system for high-performance computing (HPC) and AI workloads on Azure.
+- [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. 
+- [Openflight Flight Solo](https://www.openflighthpc.org/latest/docs/flight-solo/) - HPC-ready, platform-agnostic image approach to deploying HPC resources.
 
-## CSP - Solution
+## CSP - PaaS 
 
 - [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service on AWS.
 - [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management.
