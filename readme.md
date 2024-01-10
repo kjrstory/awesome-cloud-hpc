@@ -11,7 +11,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Amazon Web Services](https://aws.amazon.com/hpc/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/high-performance-computing)
 - [Google GCP](https://cloud.google.com/solutions/hpc)
-
+- [Oracle OCI](https://www.oracle.com/cloud/hpc/)
+- [Naver NCP](https://www.ncloud.com/solution/type/hpc)
+- [Samsung SDS SCP](https://cloud.samsungsds.com/serviceportal/offerings/hpc.html)
 
 ### CSP - Management
 
@@ -62,7 +64,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - On-demand, cloud-based computing resources, including both interactive workstations and HPC clusters.
 - [Ansys Gateway](https://www.ansys.com/products/cloud/ansys-gateway) - Solution for developers, designers, and engineers who want to manage their complete Ansys Simulation & CAD/CAE developments in the cloud
-- [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc/) 
+- [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc) 
 - [Synopsys Cloud](https://www.synopsys.com/cloud.html)
 - [Cadence Manged Cloud Service](https://www.cadence.com/en_US/home/solutions/cadence-cloud/managed-cloud-service.html) - EDA-optimized platform that provides a fully integrated and proven cloud environment to jump-start product design, verification, and implementation.
 - [Cadence Palladium and Protium Cloud](https://www.cadence.com/en_US/home/solutions/cadence-cloud/palladium-protium-cloud.html)
@@ -70,23 +72,22 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Altair One](https://altair.com/altair-one) 
 - [Altair Unlimited](https://altair.com/altair-unlimited)
 - [Altair Unlimited Virtual Appliance](https://altair.com/altair-unlimited-virtual-appliance)
-- [Simulia Cloud](https://www.3ds.com/products-services/simulia/products/simulia-cloud/)
+- [Simulia Cloud](https://www.3ds.com/products-services/simulia/products/simulia-cloud)
 
 
-## 3 SaaS형 클라우드
+### SaaS
 
-* Rescale: <https://rescale.com/>
-* Gompute: <https://www.gompute.com/>
-* Uber Cloud: <https://www.theubercloud.com/>
-* Scala Computing: <https://www.scalacomputing.com/>
-* TAESUNG Cloud: <https://www.etsne.com/CloudService>
-* Simscale: <https://www.simscale.com/>
-* CFD FEA Service SRL: <https://cfdfeaservice.it/>
-* PACE on Cloud: <https://landing.pace-on-cloud.com/>
-* Sabalcore: <https://www.sabalcore.com/>
+- [Rescale](https://rescale.com) - Cloud-based platform for computational engineering and R&D.
+- [Gompute](https://www.atnorth.com/hpc/gompute)
+- [Uber Cloud](https://www.theubercloud.com)
+- [Scala Computing](https://www.scalacomputing.com)
+- [TAESUNG Cloud](https://www.etsne.com/CloudService)
+- [Simscale](https://www.simscale.com)
+- [CFD FEA Service SRL](https://cfdfeaservice.it)
+- [PACE on Cloud](https://landing.pace-on-cloud.com)
+- [Sabalcore](https://www.sabalcore.com)
 
-## 4 Job Scheduler형 클라우드
-
+### Job Scheduler
 
 - [Altair HPCWorks Platform](https://altair.com/altair-hpcworks) - High-Performance Computing (HPC) and Cloud Platform by Altair.
 - [Altair Access](https://altair.com/access) - HPC Job Submission Portal for Researchers and Engineers.
@@ -94,7 +95,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Altair NavOps](https://altair.com/altair-navops) - Cloud Migration, Automation, and Spend Management for HPC.
 - [Altair Grid Engine](https://altair.com/grid-engine) - Distributed Resource Management and Optimization.
 - [Altair PBS-Professional](https://altair.com/pbs-professional) - Industry-leading Workload Manager and Job Scheduler for HPC and High-throughput Computing.
-
-* IBM LSF Suite: <https://www.ibm.com/products/hpc-workload-management>
-* Slurm Cloud: <https://slurm.schedmd.com/elastic_computing.html>
-- [MS HPC Pack]:(https://learn.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps) 
+- [IBM LSF Suite](https://www.ibm.com/products/hpc-workload-management)
+- [Slurm Cloud Computing](https://slurm.schedmd.com/elastic_computing.html)
+- [MS HPC Pack](https://learn.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps) 
