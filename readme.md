@@ -58,8 +58,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Skypilot](https://skypilot.readthedocs.io) - Framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution.
 
 
-### CAE,EDS ISV
-
+### CAE,EDA ISV
 
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - On-demand, cloud-based computing resources, including both interactive workstations and HPC clusters.
 - [Ansys Gateway](https://www.ansys.com/products/cloud/ansys-gateway) - Solution for developers, designers, and engineers who want to manage their complete Ansys Simulation & CAD/CAE developments in the cloud
@@ -68,12 +67,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Cadence Manged Cloud Service](https://www.cadence.com/en_US/home/solutions/cadence-cloud/managed-cloud-service.html) - EDA-optimized platform that provides a fully integrated and proven cloud environment to jump-start product design, verification, and implementation.
 - [Cadence Palladium and Protium Cloud](https://www.cadence.com/en_US/home/solutions/cadence-cloud/palladium-protium-cloud.html)
 - [Cadence OnCloud Platform](https://www.cadence.com/en_US/home/solutions/cadence-cloud/oncloud.html) - SaaS software platform for all your system design and simulation needs that can operate on any hardware, removing the requirement to run and maintain expensive infrastructure hardware.
-- [Altair One](https://altair.com/altair-one)
+- [Altair One](https://altair.com/altair-one) 
+- [Altair Unlimited](https://altair.com/altair-unlimited)
+- [Altair Unlimited Virtual Appliance](https://altair.com/altair-unlimited-virtual-appliance)
 - [Simulia Cloud](https://www.3ds.com/products-services/simulia/products/simulia-cloud/)
 
 
 ## 3 SaaS형 클라우드
-
 
 * Rescale: <https://rescale.com/>
 * Gompute: <https://www.gompute.com/>
@@ -88,7 +88,13 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## 4 Job Scheduler형 클라우드
 
 
-* Altair Control: <https://altair.com/control>
+- [Altair HPCWorks Platform](https://altair.com/altair-hpcworks) - High-Performance Computing (HPC) and Cloud Platform by Altair.
+- [Altair Access](https://altair.com/access) - HPC Job Submission Portal for Researchers and Engineers.
+- [Altair Control](https://altair.com/control) - HPC Administrator's Control Center for Managing, Optimizing, and Forecasting Resources.
+- [Altair NavOps](https://altair.com/altair-navops) - Cloud Migration, Automation, and Spend Management for HPC.
+- [Altair Grid Engine](https://altair.com/grid-engine) - Distributed Resource Management and Optimization.
+- [Altair PBS-Professional](https://altair.com/pbs-professional) - Industry-leading Workload Manager and Job Scheduler for HPC and High-throughput Computing.
+
 * IBM LSF Suite: <https://www.ibm.com/products/hpc-workload-management>
 * Slurm Cloud: <https://slurm.schedmd.com/elastic_computing.html>
 - [MS HPC Pack]:(https://learn.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps) 
