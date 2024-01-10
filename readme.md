@@ -12,10 +12,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## CSP - Management
 
 - [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS.
-
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure
-
-* GCP HPC Toolkit: <https://cloud.google.com/hpc-toolkit/docs/overview>
+- [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Open source software offered by Google Cloud that makes it easy to deploy high performance computing (HPC) environments on Google Cloud.
 * Alibaba Elastic HPC: <https://www.alibabacloud.com/product/ehpc>
 * KT Cloud HPC: <https://cloud.kt.com/product/computing/hpc/>
 * SCP HPC Cluster: <https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html>
@@ -25,7 +23,6 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 
 ## CSP - IaaS
-
 
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors 
 - [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Gen AMD EPYC processors
@@ -39,10 +36,9 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service on AWS
 - [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management
-
 - [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow.
 - [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS.
-
+- [GCP Batch](https://cloud.google.com/batch/) - Fully managed batch service to schedule, queue, and execute batch jobs on Google's infrastructure.
 
 
 ## 2 ISV형 클라우드
@@ -75,4 +71,3 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * IBM LSF Suite: <https://www.ibm.com/products/hpc-workload-management>
 * Slurm Cloud: <https://slurm.schedmd.com/elastic_computing.html>
 - [MS HPC Pack]:(https://learn.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps) 
-
