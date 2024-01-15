@@ -1,12 +1,10 @@
-> A curated list of #######.
-
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+> A curated list of cloud HPC.
 
 Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-
-### CSP - Solution
+### CSP - HPC Solution
 
 - [Amazon Web Services](https://aws.amazon.com/hpc/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/high-performance-computing)
@@ -19,6 +17,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 - [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS.
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure
+- [Azure HPC OnDemand Platform](https://azure.github.io/az-hop/) - Complete HPC cluster solution ready for users to run applications that is easy to deploy and manage on Azure.
 - [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Open source software offered by Google Cloud that makes it easy to deploy high performance computing (HPC) environments on Google Cloud.
 - [Alibaba E-HPC](https://www.alibabacloud.com/product/ehpc)  
 - [OCI HPC Cluster](https://cloudmarketplace.oracle.com/marketplace/listing/67628143) - Automated HPC cluster deployment on OCI.
@@ -26,20 +25,27 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015)
 - [SCP HPC Cluster](https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html) - HPC(High-performance computing) cluster environment on SCP.
 
-### CSP - IaaS 
+### CSP - IaaS(Server) 
 
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors.
 - [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Gen AMD EPYC processors.
 - [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors.
-- [Elastic Fabric Adapter](https://aws.amazon.com/hpc/efa/) - Network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale on AWS.
-- [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) - Fully managed shared storage with the scalability and performance of the popular Lustre file system on AWS.
-- [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system.
-- [Azure InfiBand](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/enable-infiniband)
 - [Azure H-series virtual machines](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes-hpc) 
 - [Azure N-series virtual machiens](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes-gpu) 
+
+### CSP - IaaS(Network)
+
+- [Elastic Fabric Adapter](https://aws.amazon.com/hpc/efa/) - Network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale on AWS.
+- [Azure InfiBand](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/enable-infiniband)
+
+### CSP - IaaS(Storage)
+- [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) - Fully managed shared storage with the scalability and performance of the popular Lustre file system on AWS.
+- [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system.
 - [Azure NetApp Files](https://azure.microsoft.com/en-us/products/netapp/)
 - [Azure HPC Cache](https://azure.microsoft.com/en-us/products/hpc-cache)
 - [Azure Managed Lustre](https://azure.microsoft.com/en-us/products/managed-lustre) - Managed, pay-as-you-go file system for high-performance computing (HPC) and AI workloads on Azure.
+
+### CSP - IaaS(Etc.)
 - [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. 
 - [Openflight Flight Solo](https://www.openflighthpc.org/latest/docs/flight-solo/) - HPC-ready, platform-agnostic image approach to deploying HPC resources.
 
@@ -53,6 +59,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Platform
 
+- [NICE DCV](https://aws.amazon.com/ko/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming 
 - [cloudycluster](https://cloudycluster.com) - Turn-Key Cloud HPC elastic orchestration with a familiar hpc look and feel.
 - [Rntier Cloud](https://www.rntiercloud.com)
 - [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
@@ -98,3 +105,31 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [IBM LSF Suite](https://www.ibm.com/products/hpc-workload-management)
 - [Slurm Cloud Computing](https://slurm.schedmd.com/elastic_computing.html)
 - [MS HPC Pack](https://learn.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps) 
+
+### Blog, Documentation, Youtube
+
+- [AWS HPC Blog](https://aws.amazon.com/blogs/hpc/)
+- [Day 1 HPC](https://day1hpc.com) - AWS engineering's hpc communutiy site.
+- [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw) - Day 1 HPC Youtube Channel.
+- [Azure High Performance Computing (HPC) Blog](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/bg-p/AzureHighPerformanceComputingBlog)
+
+
+### Repository
+
+- [AWS Parallel Cluster](https://github.com/aws/aws-parallelcluster) 
+- [AWS Parallel Cluster UI](https://github.com/aws/aws-parallelcluster-ui) - Front-end for AWS ParallelCluster
+- [Azure HPC](https://github.com/Azure/azurehpc) - Easy automation scripts for building a HPC environment in Azure.
+- [Azhop](https://github.com/Azure/az-hop) - Azure HPC On-Demand Platform.
+
+
+#### Azure Cyclecloud
+- [Azure CycleCloud Slurm](https://github.com/Azure/cyclecloud-slurm)
+- [Azure CycleCloud PBSPro](https://github.com/Azure/cyclecloud-pbspro)
+- [Azure CycleCloud LSF](https://github.com/Azure/cyclecloud-lsf)
+- [Azure CyclcCloud Beegfs](https://github.com/Azure/cyclecloud-beegfs)
+- [Azure CycleCloud Symphony](https://github.com/Azure/cyclecloud-symphony)
+- [Azure CycleCloud GridEngine](https://github.com/Azure/cyclecloud-gridengine)
+- [Azure CycleCloud HPC Pack](https://github.com/Azure/cyclecloud-hpcpack)
+- [Azure CycleCloud Autoscaling Library](https://github.com/Azure/cyclecloud-scalelib)
+
+
