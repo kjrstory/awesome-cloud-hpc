@@ -35,7 +35,7 @@ A curated list of cloud HPC.
 - [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS.
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure.
 - [Azure HPC OnDemand Platform](https://azure.github.io/az-hop/) - Complete HPC cluster solution ready for users to run applications that is easy to deploy and manage on Azure.
-- [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Open source software offered by Google Cloud that makes it easy to deploy high performance computing (HPC) environments on Google Cloud.
+- [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - An open-source software provided by Google Cloud, using HPC blueprints and modules as components, which can be customized through Terraform or Packer, employed for the efficient deployment of high-performance computing environments on GCP [Repository[(https://github.com/GoogleCloudPlatform/hpc-toolkit).
 - [Alibaba E-HPC](https://www.alibabacloud.com/product/ehpc) - End-to-end public cloud service. E-HPC provides individual users, education and research institutions, and public institutions with a fast, elastic and secure cloud compute platform that interconnects with Alibaba Cloud products.
 - [OCI HPC Cluster](https://cloudmarketplace.oracle.com/marketplace/listing/67628143) - Automated HPC cluster deployment on OCI.
 - [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution that makes it easy to deploy a variety of industry's best HPC file servers on OCI. 
@@ -144,7 +144,6 @@ A curated list of cloud HPC.
 - [Azure HPC](https://github.com/Azure/azurehpc) - Easy automation scripts for building a HPC environment in Azure.
 - [Azhop](https://github.com/Azure/az-hop) - Azure HPC On-Demand Platform.
 - [Azhpc-images](https://github.com/Azure/azhpc-images) - Installation scripts for HPC images in Azure Marketplace, specifically CentOS-HPC, Ubuntu-HPC, and AlmaLinux-HPC.
-- [GCP HPC Toolkit](https://github.com/GoogleCloudPlatform/hpc-toolkit)  
 
 ### Azure Cyclecloud
 - [Azure CycleCloud Slurm](https://github.com/Azure/cyclecloud-slurm)
