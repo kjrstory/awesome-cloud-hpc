@@ -82,7 +82,7 @@ A curated list of cloud HPC.
 ## Platform
 
 - [NICE DCV](https://aws.amazon.com/ko/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming.
-- [cloudycluster](https://cloudycluster.com) - Turn-Key Cloud HPC elastic orchestration with a familiar hpc look and feel.
+- [CloudyCluster](https://cloudycluster.com) - Turn-Key Cloud HPC elastic orchestration with a familiar hpc look and feel.
 - [Rntier Cloud](https://www.rntiercloud.com)
 - [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
 - [Covalent](https://www.covalent.xyz) - Pythonic workflow orchestration platform for scaling workloads from your laptop to any compute backend.
@@ -107,6 +107,7 @@ A curated list of cloud HPC.
 ## SaaS
 
 - [Rescale](https://rescale.com) - Cloud-based platform for computational engineering and R&D.
+- [Nimbix](https://www.nimbix.net)  
 - [Gompute](https://www.atnorth.com/hpc/gompute)
 - [Uber Cloud](https://www.theubercloud.com)
 - [Scala Computing](https://www.scalacomputing.com)
