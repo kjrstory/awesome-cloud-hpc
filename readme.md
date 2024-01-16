@@ -35,11 +35,11 @@ A curated list of cloud HPC.
 - [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS.
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure.
 - [Azure HPC OnDemand Platform](https://azure.github.io/az-hop/) - Complete HPC cluster solution ready for users to run applications that is easy to deploy and manage on Azure.
-- [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - An open-source software provided by Google Cloud, using HPC blueprints and modules as components, which can be customized through Terraform or Packer, employed for the efficient deployment of high-performance computing environments on GCP [Repository[(https://github.com/GoogleCloudPlatform/hpc-toolkit).
+- [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - An open-source software provided by Google Cloud, using HPC blueprints and modules as components, which can be customized through Terraform or Packer, employed for the efficient deployment of high-performance computing environments on GCP [Repository](https://github.com/GoogleCloudPlatform/hpc-toolkit).
 - [Alibaba E-HPC](https://www.alibabacloud.com/product/ehpc) - End-to-end public cloud service. E-HPC provides individual users, education and research institutions, and public institutions with a fast, elastic and secure cloud compute platform that interconnects with Alibaba Cloud products.
 - [OCI HPC Cluster](https://cloudmarketplace.oracle.com/marketplace/listing/67628143) - Automated HPC cluster deployment on OCI.
 - [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution that makes it easy to deploy a variety of industry's best HPC file servers on OCI. 
-- [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015)
+- [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015) - KT Cloud's high-performance computing management product integrating Altair's PBS Professional, Compute Manager, and Hyperworks.
 - [SCP HPC Cluster](https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html) - HPC(High-performance computing) cluster environment on SCP.
 
 ## CSP - IaaS(Server) 
