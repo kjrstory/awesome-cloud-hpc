@@ -7,13 +7,13 @@ A curated list of cloud HPC.
 
 ## Contents
 
-- [CSP - HPC Solution](#CSP---HPC Solution)
+- [CSP - HPC Solution](#CSP---HPC-Solution)
 - [CSP - Management](#CSP---Management)
 - [CSP - IaaS(Server)](#CSP---IaaS(Server))
 - [CSP - IaaS(Network)](#CSP---IaaS(Storage))
 - [CSP - IaaS(Network)](#CSP---IaaS(Storage))
 - [CSP - IaaS(Network)](#CSP---IaaS(Storage))
-- [CSP - PaaS](#CSP---PaaS)]
+- [CSP - PaaS](#CSP---PaaS)
 - [Platform](#Platform)
 - [CAE,EDA ISV](#CAE,EDA-ISV)
 - [SaaS](#SaaS)
@@ -51,7 +51,7 @@ A curated list of cloud HPC.
 - [Azure N-series virtual machiens](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes-gpu) 
 - [GCP CPU platforms](https://cloud.google.com/compute/docs/cpu-platforms)
 - [GCP GPU platforms](https://cloud.google.com/compute/docs/gpus)
-- 
+ 
 ## CSP - IaaS(Network)
 
 - [Elastic Fabric Adapter](https://aws.amazon.com/hpc/efa/) - Network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale on AWS.
