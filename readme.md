@@ -1,8 +1,25 @@
-> A curated list of cloud HPC.
 
-Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
+#Awesome Cloud HPC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
+A curated list of cloud HPC.
+
+
+## Contents
+
+- [CSP - HPC Solution](#CSP - HPC Solution)
+- [CSP - Management](#CSP - Management)
+- [CSP - IaaS(Server)](#CSP - IaaS(Server))
+- [CSP - IaaS(Network)](#CSP - IaaS(Storage))
+- [CSP - IaaS(Network)](#CSP - IaaS(Storage))
+- [CSP - IaaS(Network)](#CSP - IaaS(Storage))
+- [CSP - PaaS](#CSP - PaaS)]
+- [Platform](#Platform)
+- [CAE,EDA ISV](#CAE,EDA ISV)
+- [SaaS](#SaaS)
+- [Job Scheduler](#Job Scheduler)
+- [Blog, Documentation, Youtube](#Blog, Documentation, Youtube)
+- [Repository](#Repository)
 
 ### CSP - HPC Solution
 
@@ -16,7 +33,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ### CSP - Management
 
 - [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS.
-- [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure
+- [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure.
 - [Azure HPC OnDemand Platform](https://azure.github.io/az-hop/) - Complete HPC cluster solution ready for users to run applications that is easy to deploy and manage on Azure.
 - [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Open source software offered by Google Cloud that makes it easy to deploy high performance computing (HPC) environments on Google Cloud.
 - [Alibaba E-HPC](https://www.alibabacloud.com/product/ehpc)  
@@ -59,7 +76,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ### Platform
 
-- [NICE DCV](https://aws.amazon.com/ko/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming 
+- [NICE DCV](https://aws.amazon.com/ko/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming.
 - [cloudycluster](https://cloudycluster.com) - Turn-Key Cloud HPC elastic orchestration with a familiar hpc look and feel.
 - [Rntier Cloud](https://www.rntiercloud.com)
 - [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
@@ -106,18 +123,18 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 - [Slurm Cloud Computing](https://slurm.schedmd.com/elastic_computing.html)
 - [MS HPC Pack](https://learn.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps) 
 
-### Blog, Documentation, Youtube
+### Blog, Documentation, YouTube
 
 - [AWS HPC Blog](https://aws.amazon.com/blogs/hpc/)
 - [Day 1 HPC](https://day1hpc.com) - AWS engineering's hpc communutiy site.
-- [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw) - Day 1 HPC Youtube Channel.
+- [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw) - Day 1 HPC YouTube Channel.
 - [Azure High Performance Computing (HPC) Blog](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/bg-p/AzureHighPerformanceComputingBlog)
 
 
 ### Repository
 
 - [AWS Parallel Cluster](https://github.com/aws/aws-parallelcluster) 
-- [AWS Parallel Cluster UI](https://github.com/aws/aws-parallelcluster-ui) - Front-end for AWS ParallelCluster
+- [AWS Parallel Cluster UI](https://github.com/aws/aws-parallelcluster-ui) - Front-end for AWS ParallelCluster.
 - [Azure HPC](https://github.com/Azure/azurehpc) - Easy automation scripts for building a HPC environment in Azure.
 - [Azhop](https://github.com/Azure/az-hop) - Azure HPC On-Demand Platform.
 
