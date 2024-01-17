@@ -1,24 +1,22 @@
 
 # Awesome Cloud HPC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
 
-
 A curated list of cloud HPC.
-
 
 ## Contents
 
 - [CSP - HPC Solution](#CSP---HPC-Solution)
 - [CSP - Management](#CSP---Management)
 - [CSP - IaaS(Server)](#CSP---IaaS(Server))
-- [CSP - IaaS(Network)](#CSP---IaaS(Storage))
-- [CSP - IaaS(Network)](#CSP---IaaS(Storage))
-- [CSP - IaaS(Network)](#CSP---IaaS(Storage))
+- [CSP - IaaS(Network)](#CSP---IaaS(Network))
+- [CSP - IaaS(Storage)](#CSP---IaaS(Storage))
+- [CSP - IaaS(etc.)](#CSP---IaaS(etc.))
 - [CSP - PaaS](#CSP---PaaS)
 - [Platform](#Platform)
 - [CAE,EDA ISV](#CAE,EDA-ISV)
 - [SaaS](#SaaS)
 - [Job Scheduler](#Job-Scheduler)
-- [Blog, Documentation, Youtube](#Blog,-Documentation,-Youtube)
+- [Blog, Documentation, YouTube](#Blog,-Documentation,-YouTube)
 - [Repository](#Repository)
 
 ## CSP - HPC Solution
@@ -63,10 +61,10 @@ A curated list of cloud HPC.
 - [Azure NetApp Files](https://azure.microsoft.com/en-us/products/netapp/)
 - [Azure HPC Cache](https://azure.microsoft.com/en-us/products/hpc-cache)
 - [Azure Managed Lustre](https://azure.microsoft.com/en-us/products/managed-lustre) - Managed, pay-as-you-go file system for high-performance computing (HPC) and AI workloads on Azure.
-- [GCP Parallel Store](https://cloud.google.com/parallelstore) - Based on Intel DAOS and delivers up to 6.3x greater read throughput performance compared to competitive Lustre scratch offerings
+- [GCP Parallel Store](https://cloud.google.com/parallelstore) - Based on Intel DAOS and delivers up to 6.3x greater read throughput performance compared to competitive Lustre scratch offerings.
 - [GCP File Store](https://cloud.google.com/filestore) - High-performance, fully managed file storage on GCP.
 
-## CSP - IaaS(Etc.)
+## CSP - IaaS(etc.)
 - [GCP HPC-ready VM](https://cloud.google.com/compute/docs/instances/create-hpc-vm) - CentOS 7.9 or Rocky Linux 8 based VM image that is optimized for tightly coupled HPC workloads.
 - [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. 
 - [Openflight Flight Solo](https://www.openflighthpc.org/latest/docs/flight-solo/) - HPC-ready, platform-agnostic image approach to deploying HPC resources.
@@ -92,7 +90,7 @@ A curated list of cloud HPC.
 ## CAE,EDA ISV
 
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - On-demand, cloud-based computing resources, including both interactive workstations and HPC clusters.
-- [Ansys Gateway](https://www.ansys.com/products/cloud/ansys-gateway) - Solution for developers, designers, and engineers who want to manage their complete Ansys Simulation & CAD/CAE developments in the cloud
+- [Ansys Gateway](https://www.ansys.com/products/cloud/ansys-gateway) - Solution for developers, designers, and engineers who want to manage their complete Ansys Simulation & CAD/CAE developments in the cloud.
 - [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc) 
 - [Synopsys Cloud](https://www.synopsys.com/cloud.html)
 - [Cadence Manged Cloud Service](https://www.cadence.com/en_US/home/solutions/cadence-cloud/managed-cloud-service.html) - EDA-optimized platform that provides a fully integrated and proven cloud environment to jump-start product design, verification, and implementation.
