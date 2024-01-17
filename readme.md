@@ -5,7 +5,7 @@ A curated list of cloud HPC.
 
 ## Contents
 
-- [CSP - HPC Solution](#CSP---HPC-Solution)
+- [CSP - Solution](#CSP---Solution)
 - [CSP - Management](#CSP---Management)
 - [CSP - IaaS(Server)](#CSP---IaaS(Server))
 - [CSP - IaaS(Network)](#CSP---IaaS(Network))
@@ -19,7 +19,7 @@ A curated list of cloud HPC.
 - [Blog, Documentation, YouTube](#Blog,-Documentation,-YouTube)
 - [Repository](#Repository)
 
-## CSP - HPC Solution
+## CSP - Solution
 
 - [Amazon Web Services](https://aws.amazon.com/hpc/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/high-performance-computing)
@@ -30,9 +30,9 @@ A curated list of cloud HPC.
 
 ## CSP - Management
 
-- [AWS Parallel Cluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS.
+- [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool that makes it easy for you to deploy and manage High Performance Computing (HPC) clusters on AWS ([Repository](https://github.com/aws/aws-parallelcluster)).
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure.
-- [Azure HPC OnDemand Platform](https://azure.github.io/az-hop/) -  An Azure-based end-to-end HPC cluster solution using Terraform, Ansible, and Packer, featuring an OpenOnDemand Portal, Active Directory integration, Open PBS/SLURM job scheduling, Azure Cycle Cloud for autoscaling, administrative Jumpbox, Azure Netapp Files and Lustre cluster storage, and Grafana dashboards for monitoring ([Repository](https://github.com/Azure/az-hop),[Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/azhpc.azhop)).
+- [Azure HPC OnDemand Platform](https://azure.github.io/az-hop/) -  An Azure-based end-to-end HPC cluster solution using Terraform, Ansible, and Packer, featuring an OpenOnDemand Portal, Active Directory integration, Open PBS/SLURM job scheduling, Azure Cycle Cloud for autoscaling, administrative Jumpbox, Azure Netapp Files and Lustre cluster storage, and Grafana dashboards for monitoring ([Repository](https://github.com/Azure/az-hop), [Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/azhpc.azhop)).
 - [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - An open-source software provided by Google Cloud, using HPC blueprints and modules as components, which can be customized through Terraform or Packer, employed for the efficient deployment of high-performance computing environments on GCP ([Repository](https://github.com/GoogleCloudPlatform/hpc-toolkit)).
 - [Alibaba E-HPC](https://www.alibabacloud.com/product/ehpc) - Alibaba Cloud's computing service offering resource creation, resource configuration, job submission, performance analysis, and Virtual Network Computing (VNC) capabilities through its E-HPC console.
 - [OCI HPC Cluster](https://cloudmarketplace.oracle.com/marketplace/listing/67628143) - Automated HPC cluster deployment on OCI.
@@ -137,7 +137,6 @@ A curated list of cloud HPC.
 
 ## Repository
 
-- [AWS Parallel Cluster](https://github.com/aws/aws-parallelcluster) 
 - [AWS Parallel Cluster UI](https://github.com/aws/aws-parallelcluster-ui) - Front-end for AWS ParallelCluster.
 - [Azure HPC](https://github.com/Azure/azurehpc) - Easy automation scripts for building a HPC environment in Azure.
 - [Azhpc-images](https://github.com/Azure/azhpc-images) - Installation scripts for HPC images in Azure Marketplace, specifically CentOS-HPC, Ubuntu-HPC, and AlmaLinux-HPC.
