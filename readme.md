@@ -42,15 +42,15 @@ A curated list of cloud HPC.
 
 ## CSP - IaaS(Server) 
 
-- [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors.
-- [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Gen AMD EPYC processors.
-- [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors.
-- [Azure HBv4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hbv4-series) - Optimized for various HPC workloads powerd by AMD EPYC™ 9004-series (Genoa) processor.
-- [Azure HBv3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hbv3-series) - Optimized for various HPC workloads powerd by AMD EPYC™ 7003X (Milan) processor.
-- [Azure HBv2-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hbv2-series) - Optimized for applications driven by memory bandwidth AMD EPYC 7742
-- [Azure HB-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hb-series) - Optimized for applications driven by memory bandwidth AMD EPYC 7551
-- [Azure HC-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hc-series) - Intel Xeon Platinum 8168
-- [Azure HX-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hx-series) - Optimized for workloads that require significant memory capacity with twice the memory capacity as HBv4
+- [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors on AWS.
+- [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Gen AMD EPYC processors on AWS.
+- [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors AWS.
+- [Azure HBv4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hbv4-series) - HPC-optimized instances powered by 4th Gen AMD EPYC processors on Azure.
+- [Azure HBv3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hbv3-series) - HPC-optimized instances powered by 3rd Gen AMD EPYC processors on Azure.
+- [Azure HBv2-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hbv2-series) - HPC-optimized instances powered by 2nd Gen AMD EPYC processors on Azure.
+- [Azure HB-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hb-series) - HPC-optimized instances powered by 1st Gen AMD EPYC processors on Azure.
+- [Azure HC-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hc-series) - HPC-optimized instances powered by 1st Generation Intel Xeon Scalable processors Azure.
+- [Azure HX-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hx-series) - Optimized instances for workloads that require significant memory capacity with twice the memory capacity as HBv4.
 - [Azure N-series virtual machiens](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes-gpu) 
 - [GCP CPU platforms](https://cloud.google.com/compute/docs/cpu-platforms)
 - [GCP GPU platforms](https://cloud.google.com/compute/docs/gpus)
