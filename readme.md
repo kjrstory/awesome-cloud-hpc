@@ -44,17 +44,22 @@ A curated list of cloud HPC.
 
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors on AWS.
 - [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Gen AMD EPYC processors on AWS.
-- [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors AWS.
+- [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors on AWS.
+- [Amazon EC2 P5](https://aws.amazon.com/ec2/instance-types/p5/) -  GPU instances powerd by NVIDIA H100 GPus on AWS.
+- [Amazon EC2 P4](https://aws.amazon.com/ec2/instance-types/p4/) -  GPU instances powerd by NVIDIA A100 GPus on AWS.
+- [Amazon EC2 P4](https://aws.amazon.com/ec2/instance-types/p3/) -  GPU instances powerd by NVIDIA V100 GPus on AWS.
+- [Amazon EC2 P5](https://aws.amazon.com/ec2/instance-types/g5/) -  GPU instances powerd by NVIDIA A10G GPus and  2nd Gen AMD EPYC processors on AWS.
 - [Azure HBv4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hbv4-series) - HPC-optimized instances powered by 4th Gen AMD EPYC processors on Azure.
 - [Azure HBv3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hbv3-series) - HPC-optimized instances powered by 3rd Gen AMD EPYC processors on Azure.
 - [Azure HBv2-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hbv2-series) - HPC-optimized instances powered by 2nd Gen AMD EPYC processors on Azure.
 - [Azure HB-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hb-series) - HPC-optimized instances powered by 1st Gen AMD EPYC processors on Azure.
 - [Azure HC-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hc-series) - HPC-optimized instances powered by 1st Generation Intel Xeon Scalable processors Azure.
 - [Azure HX-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hx-series) - Optimized instances for workloads that require significant memory capacity with twice the memory capacity as HBv4.
-- [Azure NDm A100 v4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/ndm-a100-v4-series) - GPU instances powerd by NVIDIA Teslta A100(80Gb) GPUs and 3rd Generation AMD EPYC processors.
-- [Azure NC A100 v4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/nc-a100-v4-series) - GPU instances powerd by NVIDIA Teslta A100(40Gb) GPUs and 3rd Generation AMD EPYC processors.
-- [Azure NCv3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/ncv3-series) - GPU instances powerd by NVIDIA Teslta V100 GPUs.
-- [Azure NCasT4_v3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/nct4-v3-series) - GPU instances powerd by NVIDIA Tesla T4 GPUs and 2nd Gen AMD EPYC CPUs.
+- [Azure NDm H100 v5-series](https://learn.microsoft.com/en-us/azure/virtual-machines/nd-h100-v5-series) - GPU instances powerd by NVIDIA Teslta H100 GPUs on Azure.
+- [Azure NDm A100 v4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/ndm-a100-v4-series) - GPU instances powerd by NVIDIA Teslta A100(80Gb) GPUs and 3rd Generation AMD EPYC processors on Azure.
+- [Azure NC A100 v4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/nc-a100-v4-series) - GPU instances powerd by NVIDIA Teslta A100(40Gb) GPUs and 3rd Generation AMD EPYC processors on Azure.
+- [Azure NCv3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/ncv3-series) - GPU instances powerd by NVIDIA Teslta V100 GPUs on Azure.
+- [Azure NCasT4_v3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/nct4-v3-series) - GPU instances powerd by NVIDIA Tesla T4 GPUs and 2nd Gen AMD EPYC CPUs on Azure.
 - [GCP CPU platforms](https://cloud.google.com/compute/docs/cpu-platforms)
 - [GCP GPU platforms](https://cloud.google.com/compute/docs/gpus)
  
