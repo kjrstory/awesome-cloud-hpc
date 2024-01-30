@@ -51,7 +51,10 @@ A curated list of cloud HPC.
 - [Azure HB-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hb-series) - HPC-optimized instances powered by 1st Gen AMD EPYC processors on Azure.
 - [Azure HC-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hc-series) - HPC-optimized instances powered by 1st Generation Intel Xeon Scalable processors Azure.
 - [Azure HX-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hx-series) - Optimized instances for workloads that require significant memory capacity with twice the memory capacity as HBv4.
-- [Azure N-series virtual machiens](https://learn.microsoft.com/en-us/azure/virtual-machines/sizes-gpu) 
+- [Azure NDm A100 v4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/ndm-a100-v4-series) - GPU instances powerd by NVIDIA Teslta A100(80Gb) GPUs and 3rd Generation AMD EPYC processors.
+- [Azure NC A100 v4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/nc-a100-v4-series) - GPU instances powerd by NVIDIA Teslta A100(40Gb) GPUs and 3rd Generation AMD EPYC processors.
+- [Azure NCv3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/ncv3-series) - GPU instances powerd by NVIDIA Teslta V100 GPUs.
+- [Azure NCasT4_v3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/nct4-v3-series) - GPU instances powerd by NVIDIA Tesla T4 GPUs and 2nd Gen AMD EPYC CPUs.
 - [GCP CPU platforms](https://cloud.google.com/compute/docs/cpu-platforms)
 - [GCP GPU platforms](https://cloud.google.com/compute/docs/gpus)
  
