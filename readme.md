@@ -43,11 +43,11 @@ A curated list of cloud HPC.
 ## CSP - IaaS(Server) 
 
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors on AWS. <a href="#"> 
-   <img src="svg/dev/services/aws.svg" alt="aws" style="vertical-align:bottom margin:6px 4px">
+   <img src="svg/dev/services/aws.svg" alt="aws" height="10px" style="vertical-align:bottom margin:6px 4px">
   </a>  
 - [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Generation AMD EPYC processors on AWS. ![AWS](svg/dev/services/aws.svg)
-- [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors on AWS.
-- [Amazon EC2 P5](https://aws.amazon.com/ec2/instance-types/p5/) -  GPU instances powerd by NVIDIA H100 GPus on AWS.
+- [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors on AWS. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom margin:6px 4px"> </a>
+- [Amazon EC2 P5](https://aws.amazon.com/ec2/instance-types/p5/) -  GPU instances powerd by NVIDIA H100 GPus on AWS. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="30px" style="vertical-align:bottom margin:6px 4px"> </a>
 - [Amazon EC2 P4](https://aws.amazon.com/ec2/instance-types/p4/) -  GPU instances powerd by NVIDIA A100(80Gb,40Gb) GPus on AWS.
 - [Amazon EC2 P3](https://aws.amazon.com/ec2/instance-types/p3/) -  GPU instances powerd by NVIDIA V100 GPus on AWS.
 - [Amazon EC2 G5](https://aws.amazon.com/ec2/instance-types/g5/) -  GPU instances powerd by NVIDIA A10G GPus and 2nd Gen AMD EPYC processors on AWS.
