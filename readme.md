@@ -30,7 +30,7 @@ A curated list of cloud HPC.
 
 ## CSP - Management
 
-- [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool for deploying and managing HPC clusters on AWS ([Repository](https://github.com/aws/aws-parallelcluster)).
+- [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool for deploying and managing HPC clusters on AWS ([Repository](https://github.com/aws/aws-parallelcluster)). ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments on Azure.
 - [Azure HPC OnDemand Platform](https://azure.github.io/az-hop/) - Azure-based HPC cluster solution with features like Terraform, Ansible, Packer integration, job scheduling, autoscaling, and monitoring ([Repository](https://github.com/Azure/az-hop), [Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/azhpc.azhop)).
 - [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Google Cloud's open-source software for deploying high-performance computing environments on GCP, featuring customizable Terraform modules and Packer integration. ([Repository](https://github.com/GoogleCloudPlatform/hpc-toolkit)).
@@ -42,8 +42,10 @@ A curated list of cloud HPC.
 
 ## CSP - IaaS(Server) 
 
-- [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors on AWS.
-- [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Generation AMD EPYC processors on AWS.
+- [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors on AWS. <a href="#">
+    <img src="svg/dev/services/aws.svg" alt="example badge" style="vertical-align:top margin:6px 4px">
+  </a>  
+- [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Generation AMD EPYC processors on AWS. [![AWS](svg/dev/services/aws.svg)]
 - [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors on AWS.
 - [Amazon EC2 P5](https://aws.amazon.com/ec2/instance-types/p5/) -  GPU instances powerd by NVIDIA H100 GPus on AWS.
 - [Amazon EC2 P4](https://aws.amazon.com/ec2/instance-types/p4/) -  GPU instances powerd by NVIDIA A100(80Gb,40Gb) GPus on AWS.
