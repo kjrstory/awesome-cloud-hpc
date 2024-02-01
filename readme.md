@@ -71,13 +71,13 @@ A curated list of cloud HPC.
 ## CSP - IaaS(Network)
 
 - [Elastic Fabric Adapter](https://aws.amazon.com/hpc/efa/) - Network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertial-align:top margin:6px 4px"> </a>
-- [Azure InfiBand](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/enable-infiniband) <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
+- [Azure InfiniBand](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/enable-infiniband) - RDMA capable HB-series and N-series VMs communicate over the InfiniBand network. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 
 ## CSP - IaaS(Storage)
 - [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) - Fully managed shared storage with the scalability and performance of the popular Lustre file system. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
-- [Azure NetApp Files](https://azure.microsoft.com/en-us/products/netapp/) <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
-- [Azure HPC Cache](https://azure.microsoft.com/en-us/products/hpc-cache) <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
+- [Azure NetApp Files](https://azure.microsoft.com/en-us/products/netapp/) - Enterprise-grade Azure file shares, powered by NetApp. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
+- [Azure HPC Cache](https://azure.microsoft.com/en-us/products/hpc-cache) File caching for HPC. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure Managed Lustre](https://azure.microsoft.com/en-us/products/managed-lustre) - Managed, pay-as-you-go file system for high-performance computing (HPC) and AI workloads. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [GCP Parallel Store](https://cloud.google.com/parallelstore) - Based on Intel DAOS and delivers up to 6.3x greater read throughput performance compared to competitive Lustre scratch offerings. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [GCP File Store](https://cloud.google.com/filestore) - High-performance, fully managed file storage. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>
