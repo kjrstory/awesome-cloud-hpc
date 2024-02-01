@@ -34,9 +34,9 @@ A curated list of cloud HPC.
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure HPC OnDemand Platform](https://azure.github.io/az-hop/) - Azure-based HPC cluster solution with features like Terraform, Ansible, Packer integration, job scheduling, autoscaling, and monitoring ([Repository](https://github.com/Azure/az-hop), [Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/azhpc.azhop)). <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Google Cloud's open-source software for deploying high-performance computing environments on GCP, featuring customizable Terraform modules and Packer integration. ([Repository](https://github.com/GoogleCloudPlatform/hpc-toolkit)). <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
-- [Alibaba E-HPC](https://www.alibabacloud.com/product/ehpc) - Alibaba Cloud's computing service for resource management, job submission, performance analysis, and VNC in E-HPC console. <a href="#"> <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=for-the-badge&logo=alibabacloud&logoColor=white"> /a>
-- [OCI HPC Cluster](https://cloudmarketplace.oracle.com/marketplace/listing/67628143) - Automated HPC cluster deployment on OCI. <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=for-the-badge&logo=oracle&logoColor=black"> </a>
-- [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution for deploying various HPC file servers on OCI. Automated HPC cluster deployment on OCI. <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=plastic&logo=oracle&logoColor=black"> </a> 
+- [Alibaba E-HPC](https://www.alibabacloud.com/product/ehpc) - Alibaba Cloud's computing service for resource management, job submission, performance analysis, and VNC in E-HPC console. <a href="#"> <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white"> </a>
+- [OCI HPC Cluster](https://cloudmarketplace.oracle.com/marketplace/listing/67628143) - Automated HPC cluster deployment on OCI. <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
+- [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution for deploying various HPC file servers on OCI. Automated HPC cluster deployment on OCI. <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a> 
 - [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015) - KT Cloud's HPC management product integrating Altair's solutions.
 - [SCP HPC Cluster](https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html) - HPC cluster environment on SCP.
 
@@ -84,7 +84,7 @@ A curated list of cloud HPC.
 
 ## CSP - IaaS(etc.)
 - [GCP HPC-ready VM](https://cloud.google.com/compute/docs/instances/create-hpc-vm) - CentOS 7.9 or Rocky Linux 8 based VM image that is optimized for tightly coupled HPC workloads. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
-- [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. 
+- [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
 - [Openflight Flight Solo](https://www.openflighthpc.org/latest/docs/flight-solo/) - HPC-ready, platform-agnostic image approach to deploying HPC resources.
 
 ## CSP - PaaS 
