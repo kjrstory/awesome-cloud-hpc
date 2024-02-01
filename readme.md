@@ -33,7 +33,7 @@ A curated list of cloud HPC.
 - [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool for deploying and managing HPC clusters on AWS ([Repository](https://github.com/aws/aws-parallelcluster)). <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure HPC OnDemand Platform](https://azure.github.io/az-hop/) - Azure-based HPC cluster solution with features like Terraform, Ansible, Packer integration, job scheduling, autoscaling, and monitoring ([Repository](https://github.com/Azure/az-hop), [Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/azhpc.azhop)). <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
-- [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Google Cloud's open-source software for deploying high-performance computing environments on GCP, featuring customizable Terraform modules and Packer integration. ([Repository](https://github.com/GoogleCloudPlatform/hpc-toolkit)).
+- [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Google Cloud's open-source software for deploying high-performance computing environments on GCP, featuring customizable Terraform modules and Packer integration. ([Repository](https://github.com/GoogleCloudPlatform/hpc-toolkit)). <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Alibaba E-HPC](https://www.alibabacloud.com/product/ehpc) - Alibaba Cloud's computing service for resource management, job submission, performance analysis, and VNC in E-HPC console.
 - [OCI HPC Cluster](https://cloudmarketplace.oracle.com/marketplace/listing/67628143) - Automated HPC cluster deployment on OCI.
 - [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution for deploying various HPC file servers on OCI. 
@@ -46,7 +46,7 @@ A curated list of cloud HPC.
 - [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Generation AMD EPYC processors. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Amazon EC2 Hpc6id](https://aws.amazon.com/ec2/instance-types/hpc6i/) - HPC-optimized instances powered by 3rd Generation Intel Xeon Scalable processors. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Amazon EC2 P5](https://aws.amazon.com/ec2/instance-types/p5/) -  GPU instances powerd by NVIDIA H100 GPUs. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom margin:6px 4px"> </a>
-- [Amazon EC2 P4](https://aws.amazon.com/ec2/instance-types/p4/) -  GPU instances powerd by NVIDIA A100(80Gb,40Gb) GPUs. [<a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:top margin:6px 4px"> </a>
+- [Amazon EC2 P4](https://aws.amazon.com/ec2/instance-types/p4/) -  GPU instances powerd by NVIDIA A100(80Gb,40Gb) GPUs. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Amazon EC2 P3](https://aws.amazon.com/ec2/instance-types/p3/) -  GPU instances powerd by NVIDIA V100 GPUs. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Amazon EC2 G5](https://aws.amazon.com/ec2/instance-types/g5/) -  GPU instances powerd by NVIDIA A10G GPUs and 2nd Gen AMD EPYC processors. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure HBv4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/hbv4-series) - HPC-optimized instances powered by 4th Generation AMD EPYC processors. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
@@ -60,12 +60,12 @@ A curated list of cloud HPC.
 - [Azure NC A100 v4-series](https://learn.microsoft.com/en-us/azure/virtual-machines/nc-a100-v4-series) - GPU instances powerd by NVIDIA A100(40Gb) GPUs and 3rd Generation AMD EPYC processors. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure NCv3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/ncv3-series) - GPU instances powerd by NVIDIA V100 GPUs. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure NCasT4_v3-series](https://learn.microsoft.com/en-us/azure/virtual-machines/nct4-v3-series) - GPU instances powerd by NVIDIA T4 GPUs and 2nd Gen AMD EPYC CPUs. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
-- [GCP H3 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#h3_series) - CPU instances powerd by 4th Generation Intel Xeon Scalable processors on GCP.
-- [GCP C2D machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#c2d_series) - CPU instances powerd by 3rd Generation AMD EPYC processors on GCP.
-- [GCP C2 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#c2_series) - CPU instances powerd by 2nd Geration Intel Xeon Scalable processors on GCP.
-- [GCP A3 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#a3_series) - GPU instances powerd by NVIDIA H100 GPUs on GCP.
-- [GCP A2 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#a2_series) - GPU instances powerd by NVIDIA A100(80Gb,40Gb) GPUs on GCP.
-- [GCP G2 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#h3_series) - GPU instances powerd by NVIDIA L4 GPUs on GCP.
+- [GCP H3 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#h3_series) - CPU instances powerd by 4th Generation Intel Xeon Scalable processors. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
+- [GCP C2D machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#c2d_series) - CPU instances powerd by 3rd Generation AMD EPYC processors. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
+- [GCP C2 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#c2_series) - CPU instances powerd by 2nd Geration Intel Xeon Scalable processors. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
+- [GCP A3 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#a3_series) - GPU instances powerd by NVIDIA H100 GPUs. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
+- [GCP A2 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#a2_series) - GPU instances powerd by NVIDIA A100(80Gb,40Gb) GPUs. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
+- [GCP G2 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#h3_series) - GPU instances powerd by NVIDIA L4 GPUs. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 
  
 ## CSP - IaaS(Network)
@@ -79,11 +79,11 @@ A curated list of cloud HPC.
 - [Azure NetApp Files](https://azure.microsoft.com/en-us/products/netapp/) <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure HPC Cache](https://azure.microsoft.com/en-us/products/hpc-cache) <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure Managed Lustre](https://azure.microsoft.com/en-us/products/managed-lustre) - Managed, pay-as-you-go file system for high-performance computing (HPC) and AI workloads. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
-- [GCP Parallel Store](https://cloud.google.com/parallelstore) - Based on Intel DAOS and delivers up to 6.3x greater read throughput performance compared to competitive Lustre scratch offerings.
-- [GCP File Store](https://cloud.google.com/filestore) - High-performance, fully managed file storage.
+- [GCP Parallel Store](https://cloud.google.com/parallelstore) - Based on Intel DAOS and delivers up to 6.3x greater read throughput performance compared to competitive Lustre scratch offerings. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
+- [GCP File Store](https://cloud.google.com/filestore) - High-performance, fully managed file storage. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 
 ## CSP - IaaS(etc.)
-- [GCP HPC-ready VM](https://cloud.google.com/compute/docs/instances/create-hpc-vm) - CentOS 7.9 or Rocky Linux 8 based VM image that is optimized for tightly coupled HPC workloads.
+- [GCP HPC-ready VM](https://cloud.google.com/compute/docs/instances/create-hpc-vm) - CentOS 7.9 or Rocky Linux 8 based VM image that is optimized for tightly coupled HPC workloads. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. 
 - [Openflight Flight Solo](https://www.openflighthpc.org/latest/docs/flight-solo/) - HPC-ready, platform-agnostic image approach to deploying HPC resources.
 
@@ -93,7 +93,7 @@ A curated list of cloud HPC.
 - [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 - [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:top margin:6px 4px"> </a>
-- [GCP Batch](https://cloud.google.com/batch/) - Fully managed batch service to schedule, queue, and execute batch jobs on Google's infrastructure.
+- [GCP Batch](https://cloud.google.com/batch/) - Fully managed batch service to schedule, queue, and execute batch jobs on Google's infrastructure. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:top margin:6px 4px"> </a>
 
 ## Platform
 
