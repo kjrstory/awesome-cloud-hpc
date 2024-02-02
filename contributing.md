@@ -23,14 +23,14 @@ Use the following format.
  - `Content` is in Markdown format as Content_Name and write the service name.
  - In `Description`, describe in adjective form in 1~2 lines and place a period at the end.
  - If necessary, add an `Additional link` after Description, for example, if there is a separate document page or repository.
- - For AWS, Azure, GCP, OCI, and Alibaba Cloud, attach the following badge after the description.
+ - For AWS, Azure, GCP, OCI, OpenStack and Alibaba Cloud, attach the following badge after the description.
 
    - AWS: `<a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>`
    - Azure: `<a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>`
    - GCP: `<a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>`
    - OCI: `<a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>`
    - Alibaba Cloud: `<a href="#"> <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white"> </a>`
-
+   - OpenStack: `<a href="#"> <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white"> </a>`
 ## Content Guidelines
 
  - Provide a concise description of the resource and its relation to cloud HPC.
