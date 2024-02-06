@@ -69,12 +69,12 @@ A curated list of cloud HPC.
 - [GCP G2 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#h3_series) - GPU instances powerd by NVIDIA L4 GPUs. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 
  
-## CSP - IaaS(Network)
+## IaaS(Network)
 
 - [Elastic Fabric Adapter](https://aws.amazon.com/hpc/efa/) - Network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertial-align:top margin:6px 4px"> </a>
 - [Azure InfiniBand](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/enable-infiniband) - RDMA capable HB-series and N-series VMs communicate over the InfiniBand network. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 
-## CSP - IaaS(Storage)
+## IaaS(Storage)
 - [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) - Fully managed shared storage with the scalability and performance of the popular Lustre file system. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure NetApp Files](https://azure.microsoft.com/en-us/products/netapp/) - Enterprise-grade Azure file shares, powered by NetApp. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
@@ -83,13 +83,13 @@ A curated list of cloud HPC.
 - [GCP Parallel Store](https://cloud.google.com/parallelstore) - Based on Intel DAOS and delivers up to 6.3x greater read throughput performance compared to competitive Lustre scratch offerings. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [GCP File Store](https://cloud.google.com/filestore) - High-performance, fully managed file storage. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 
-## CSP - IaaS(Image)
+## IaaS(Image)
 - [GCP HPC-ready VM](https://cloud.google.com/compute/docs/instances/create-hpc-vm) - CentOS 7.9 or Rocky Linux 8 based VM image that is optimized for tightly coupled HPC workloads [Marketplace CentOS 7](https://console.cloud.google.com/marketplace/product/click-to-deploy-images/hpc-vm-image-centos-7) [Marketplace Rocky Linux 8](https://console.cloud.google.com/marketplace/product/click-to-deploy-images/hpc-vm-image-rocky-linux-8?q=search&referrer=search).  <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Flight Solo](https://www.openflighthpc.org/latest/docs/flight-solo/) - HPC-ready, platform-agnostic image approach to deploying HPC resources powerd by alcesflight. <a href="https://aws.amazon.com/marketplace/pp/prodview-q5u533n6b34oc?sr=0-3&ref_=beagle&applicationId=AWSMPContessa"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white"> </a>
 - [HPC Pack 2019](https://cloudinfrastructureservices.co.uk/how-to-setup-hpc-pack-2019-cluster-in-azure-aws-gcp/)(Cloud Infrastructure Services) -  Microsoft HPC Pack 2019 image powered by Cloud Infrastructure Services ([Marketplace(Azure)](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/cloud-infrastructure-services.hpc2019-windows-server-2019), [Marketplace(AWS)](https://aws.amazon.com/marketplace/pp/prodview-hxo3dtqd4srdk), [Marketplace(GCP)](https://console.cloud.google.com/marketplace/product/cloud-infrastructure-services/hpc2019-windows-2019)). <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 
 
-## CSP - PaaS 
+## PaaS 
 
 - [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
@@ -97,9 +97,9 @@ A curated list of cloud HPC.
 - [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [NICE DCV](https://aws.amazon.com/ko/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
-- [Rntier Cloud](https://www.rntiercloud.com) - R&D cloud platform enabling easy and quick access to complex HPC simulations, vGPU-based remote 3D design, and multi-GPU deep learning environments via a web browser.
-- [Covalent](https://www.covalent.xyz) - Pythonic workflow orchestration platform for scaling workloads from your laptop to any compute backend ([Repository](https://github.com/AgnostiqHQ/covalent)).
-- [Skypilot](https://skypilot.readthedocs.io) - Framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution ([Repository](https://github.com/skypilot-org/skypilot)).
+- [Rntier Cloud](https://www.rntiercloud.com) - R&D cloud platform enabling easy and quick access to complex HPC simulations, vGPU-based remote 3D design, and multi-GPU deep learning environments via a web browser.  <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a> `NCP`
+- [Covalent](https://www.covalent.xyz) - Pythonic workflow orchestration platform for scaling workloads from your laptop to any compute backend ([Repository](https://github.com/AgnostiqHQ/covalent)).  <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
+- [Skypilot](https://skypilot.readthedocs.io) - Framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution ([Repository](https://github.com/skypilot-org/skypilot)). <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a> `IBM Cloud` `SCP`
 
 
 ## CAE,EDA ISV
