@@ -5,21 +5,20 @@ A curated list of cloud HPC.
 
 ## Contents
 
-- [CSP - Solution](#CSP---Solution)
-- [CSP - Management](#CSP---Management)
-- [CSP - IaaS(Server)](#CSP---IaaS(Server))
-- [CSP - IaaS(Network)](#CSP---IaaS(Network))
-- [CSP - IaaS(Storage)](#CSP---IaaS(Storage))
-- [CSP - IaaS(etc.)](#CSP---IaaS(etc.))
-- [CSP - PaaS](#CSP---PaaS)
-- [Platform](#Platform)
+- [CSP(Solution)](#CSP(Solution))
+- [Management Tool](#Management-Tool)
+- [IaaS(Server)](#IaaS(Server))
+- [IaaS(Network)](#IaaS(Network))
+- [IaaS(Storage)](#IaaS(Storage))
+- [IaaS(Image)](#IaaS(Image))
+- [PaaS](#PaaS)
 - [CAE,EDA ISV](#CAE,EDA-ISV)
 - [SaaS](#SaaS)
 - [Job Scheduler](#Job-Scheduler)
 - [Blog, Documentation, YouTube](#Blog,-Documentation,-YouTube)
 - [Repository](#Repository)
 
-## CSP - Solution
+## CSP(Solution)
 
 - [Amazon Web Services](https://aws.amazon.com/hpc/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/high-performance-computing)
@@ -28,7 +27,7 @@ A curated list of cloud HPC.
 - [Naver NCP](https://www.ncloud.com/solution/type/hpc)
 - [Samsung SDS SCP](https://cloud.samsungsds.com/serviceportal/offerings/hpc.html)
 
-## CSP - Management
+## Management Tool
 
 - [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool for deploying and managing HPC clusters ([Repository](https://github.com/aws/aws-parallelcluster)). <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
@@ -39,8 +38,10 @@ A curated list of cloud HPC.
 - [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution for deploying various HPC file servers on OCI. Automated HPC cluster deployment on OCI. <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a> 
 - [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015) - KT Cloud's HPC management product integrating Altair's solutions.
 - [SCP HPC Cluster](https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html) - HPC cluster environment on SCP.
+- [CloudyCluster](https://cloudycluster.com) - Turn-Key Cloud HPC elastic orchestration with a familiar hpc look and feel. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a> <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 
-## CSP - IaaS(Server) 
+
+## IaaS(Server) 
 
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Generation AMD EPYC processors. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
@@ -92,18 +93,13 @@ A curated list of cloud HPC.
 
 - [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management. <a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>
+- [GCP Batch](https://cloud.google.com/batch/) - Fully managed batch service to schedule, queue, and execute batch jobs on Google's infrastructure. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
 - [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
-- [GCP Batch](https://cloud.google.com/batch/) - Fully managed batch service to schedule, queue, and execute batch jobs on Google's infrastructure. <a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>
-
-## Platform
-
 - [NICE DCV](https://aws.amazon.com/ko/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
-- [CloudyCluster](https://cloudycluster.com) - Turn-Key Cloud HPC elastic orchestration with a familiar hpc look and feel. <a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>
-- [Rntier Cloud](https://www.rntiercloud.com) 
-- [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
-- [Covalent](https://www.covalent.xyz) - Pythonic workflow orchestration platform for scaling workloads from your laptop to any compute backend.
-- [Skypilot](https://skypilot.readthedocs.io) - Framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution.
+- [Rntier Cloud](https://www.rntiercloud.com) - R&D cloud platform enabling easy and quick access to complex HPC simulations, vGPU-based remote 3D design, and multi-GPU deep learning environments via a web browser.
+- [Covalent](https://www.covalent.xyz) - Pythonic workflow orchestration platform for scaling workloads from your laptop to any compute backend ([Repository](https://github.com/AgnostiqHQ/covalent)).
+- [Skypilot](https://skypilot.readthedocs.io) - Framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution ([Repository](https://github.com/skypilot-org/skypilot)).
 
 
 ## CAE,EDA ISV
