@@ -166,6 +166,37 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 `IBM Cloud` `SCP`
 
+## SaaS
+
+- [Rescale](https://rescale.com) - Hybrid-cloud platform offering turnkey HPC with extensive(1000+) ecosystem integrations and API connections to major PLM, SPDM, and data storage systems([Repository](https://github.com/rescale)).
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+`NCP`
+
+- [Nimbix](https://www.nimbix.net) - A comprehensive cloud computing solution powered by Atos, offering access to the HyperHub Application Marketplace with over 1,000 high-performance applications and workflows for diverse industries ([Repository](https://github.com/nimbix).
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Uber Cloud](https://www.theubercloud.com) - A platform featuring HD 3D graphics desktop GUI, BYOL simulation software support, scalable container-based architecture, and automated cloud computing on AWS, Azure, Google, and HPE.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Scala Computing](https://www.scalacomputing.com) - Optimized, automated cloud-based HPC resource management platform with integrated network simulation and EDA tools, offering flexible, on-demand computing, secure workflows, and global infrastructure access.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [TAESUNG Cloud](https://www.tscloud.co.kr/CloudService) - Offering Ansys applications as a service in a cloud-based SaaS.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Gompute](https://www.atnorth.com/hpc/gompute)
+- [Simscale](https://www.simscale.com)
+- [CFD FEA Service SRL](https://cfdfeaservice.it)
+- [PACE on Cloud](https://landing.pace-on-cloud.com)
+- [Sabalcore](https://www.sabalcore.com)
 
 ## CAE and EDA ISV
 
@@ -181,24 +212,6 @@ A curated list of cloud HPC.
 - [Altair Unlimited Virtual Appliance](https://altair.com/altair-unlimited-virtual-appliance)
 - [Simulia Cloud](https://www.3ds.com/products-services/simulia/products/simulia-cloud)
 
-
-## SaaS
-
-- [Rescale](https://rescale.com) - Hybrid-cloud platform offering turnkey HPC with extensive ecosystem integrations and API connections to major PLM, SPDM, and data storage systems.
-<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-`NCP`
-- [Nimbix](https://www.nimbix.net)  
-- [Gompute](https://www.atnorth.com/hpc/gompute)
-- [Uber Cloud](https://www.theubercloud.com)
-- [Scala Computing](https://www.scalacomputing.com)
-- [TAESUNG Cloud](https://www.etsne.com/CloudService)
-- [Simscale](https://www.simscale.com)
-- [CFD FEA Service SRL](https://cfdfeaservice.it)
-- [PACE on Cloud](https://landing.pace-on-cloud.com)
-- [Sabalcore](https://www.sabalcore.com)
 
 ## Job Scheduler
 
