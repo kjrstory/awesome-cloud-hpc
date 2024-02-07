@@ -5,12 +5,12 @@ A curated list of cloud HPC.
 
 ## Contents
 
-- [CSP(Solution)](#CSP(Solution))
+- [CSP-Solution](#CSP-Solution)
 - [Management Tool](#Management-Tool)
-- [IaaS(Server)](#IaaS(Server))
-- [IaaS(Network)](#IaaS(Network))
-- [IaaS(Storage)](#IaaS(Storage))
-- [IaaS(Image)](#IaaS(Image))
+- [IaaS-Server](#IaaS---Server)
+- [IaaS-Network](#IaaS---Network)
+- [IaaS-Storage](#IaaS---Storage)
+- [IaaS-Image](#IaaS---Image)
 - [PaaS](#PaaS)
 - [CAE,EDA ISV](#CAE,EDA-ISV)
 - [SaaS](#SaaS)
@@ -18,7 +18,7 @@ A curated list of cloud HPC.
 - [Blog, Documentation, YouTube](#Blog,-Documentation,-YouTube)
 - [Repository](#Repository)
 
-## CSP(Solution)
+## CSP-Solution
 
 - [Amazon Web Services](https://aws.amazon.com/hpc/)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/high-performance-computing)
@@ -50,7 +50,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 
-## IaaS(Server) 
+## IaaS-Server 
 
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -102,14 +102,14 @@ A curated list of cloud HPC.
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
  
-## IaaS(Network)
+## IaaS-Network
 
 - [Elastic Fabric Adapter](https://aws.amazon.com/hpc/efa/) - Network interface for Amazon EC2 instances that enables customers to run applications requiring high levels of inter-node communications at scale.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertial-align:top margin: 0 6px;"></a>
 - [Azure InfiniBand](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/enable-infiniband) - RDMA capable HB-series and N-series VMs communicate over the InfiniBand network.
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-## IaaS(Storage)
+## IaaS-Storage
 - [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) - Fully managed shared storage with the scalability and performance of the popular Lustre file system.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system.
@@ -125,7 +125,7 @@ A curated list of cloud HPC.
 - [GCP File Store](https://cloud.google.com/filestore) - High-performance, fully managed file storage.
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-## IaaS(Image)
+## IaaS-Image
 - [GCP HPC-ready VM](https://cloud.google.com/compute/docs/instances/create-hpc-vm) - CentOS 7.9 or Rocky Linux 8 based VM image that is optimized for tightly coupled HPC workloads [Marketplace CentOS 7](https://console.cloud.google.com/marketplace/product/click-to-deploy-images/hpc-vm-image-centos-7) [Marketplace Rocky Linux 8](https://console.cloud.google.com/marketplace/product/click-to-deploy-images/hpc-vm-image-rocky-linux-8?q=search&referrer=search).
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Flight Solo](https://www.openflighthpc.org/latest/docs/flight-solo/) - HPC-ready, platform-agnostic image approach to deploying HPC resources powerd by alcesflight.
