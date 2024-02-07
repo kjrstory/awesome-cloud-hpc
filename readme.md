@@ -7,15 +7,15 @@ A curated list of cloud HPC.
 
 - [CSP-Solution](#CSP-Solution)
 - [Management Tool](#Management-Tool)
-- [IaaS-Server](#IaaS---Server)
-- [IaaS-Network](#IaaS---Network)
-- [IaaS-Storage](#IaaS---Storage)
-- [IaaS-Image](#IaaS---Image)
+- [IaaS-Server](#IaaS-Server)
+- [IaaS-Network](#IaaS-Network)
+- [IaaS-Storage](#IaaS-Storage)
+- [IaaS-Image](#IaaS-Image)
 - [PaaS](#PaaS)
-- [CAE,EDA ISV](#CAE,EDA-ISV)
+- [CAE and EDA ISV](#CAE-and-EDA-ISV)
 - [SaaS](#SaaS)
 - [Job Scheduler](#Job-Scheduler)
-- [Blog, Documentation, YouTube](#Blog,-Documentation,-YouTube)
+- [Blog, Documentation, YouTube](#Blog-Documentation-YouTube)
 - [Repository](#Repository)
 
 ## CSP-Solution
@@ -167,7 +167,7 @@ A curated list of cloud HPC.
 `IBM Cloud` `SCP`
 
 
-## CAE,EDA ISV
+## CAE and EDA ISV
 
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - On-demand, cloud-based computing resources, including both interactive workstations and HPC clusters.
 - [Ansys Gateway](https://www.ansys.com/products/cloud/ansys-gateway) - Solution for developers, designers, and engineers who want to manage their complete Ansys Simulation & CAD/CAE developments in the cloud.
@@ -207,7 +207,7 @@ A curated list of cloud HPC.
 - [Slurm Cloud Computing](https://slurm.schedmd.com/elastic_computing.html)
 - [MS HPC Pack](https://learn.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps) 
 
-## Blog, Documentation, YouTube
+## Blog Documentation YouTube
 
 - [AWS HPC Blog](https://aws.amazon.com/blogs/hpc/)
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
