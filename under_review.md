@@ -12,11 +12,18 @@ This document tracks emerging cloud services and software which we wish to keep 
 - [SyncHPC](https://www.syncious.com/synchpc.html)
 - [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
 
-## Iaas(Image)
+## IaaS-Server
+- [Alibaba SCC](https://www.alibabacloud.com/ko/product/scc)
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+## IaaS-Image
 - [NVIDIA HPC SDK GPU-Optimized AMI](https://aws.amazon.com/marketplace/pp/prodview-rf7na2b2ttvdg?sr=0-3&ref_=beagle&applicationId=AWSMPContessa)
 - [NVIDIA GPU-Optimized AMI](https://aws.amazon.com/marketplace/pp/prodview-7ikjtg3um26wq?sr=0-18&ref_=beagle&applicationId=AWSMPContessa)
 - [SUSE Linux Enterprise High Performance Computing 15 Family - BYOS x86_64](https://aws.amazon.com/marketplace/pp/prodview-2cvp4ibmkuy7c?sr=0-6&ref_=beagle&applicationId=AWSMPContessa)
 - [HPCBOX](https://www.drizti.com/hpcbox.html) ![](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?search=hpcbox&page=1)
 
+## Paas
+- [Batch Compute](https://www.alibabacloud.com/ko/product/batch-compute)
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 ## SaaS
 - [EPIC](https://epic.zenotech.com/)
