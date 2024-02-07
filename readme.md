@@ -140,19 +140,31 @@ A curated list of cloud HPC.
 
 ## PaaS 
 
-- [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service. <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management. <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [GCP Batch](https://cloud.google.com/batch/) - Fully managed batch service to schedule, queue, and execute batch jobs on Google's infrastructure. <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow. <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS. <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [NICE DCV](https://aws.amazon.com/ko/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming. <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Rntier Cloud](https://www.rntiercloud.com) - R&D cloud platform enabling easy and quick access to complex HPC simulations, vGPU-based remote 3D design, and multi-GPU deep learning environments via a web browser.  <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a> `NCP`
-- [Covalent](https://www.covalent.xyz) - Pythonic workflow orchestration platform for scaling workloads from your laptop to any compute backend ([Repository](https://github.com/AgnostiqHQ/covalent)).  <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a> <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a> <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a> <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"></a>
+- [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [Azure Batch](https://azure.microsoft.com/en-us/products/batch/) - Cloud-scale job scheduling and compute management.
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [GCP Batch](https://cloud.google.com/batch/) - Fully managed batch service to schedule, queue, and execute batch jobs on Google's infrastructure.
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [NICE DCV](https://aws.amazon.com/ko/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [Rntier Cloud](https://www.rntiercloud.com) - R&D cloud platform enabling easy and quick access to complex HPC simulations, vGPU-based remote 3D design, and multi-GPU deep learning environments via a web browser.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a> `NCP`
+- [Covalent](https://www.covalent.xyz) - Pythonic workflow orchestration platform for scaling workloads from your laptop to any compute backend ([Repository](https://github.com/AgnostiqHQ/covalent)).
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Skypilot](https://skypilot.readthedocs.io) - Framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution ([Repository](https://github.com/skypilot-org/skypilot)).
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"></a> `IBM Cloud` `SCP`
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+`IBM Cloud` `SCP`
 
 
 ## CAE,EDA ISV
@@ -197,17 +209,24 @@ A curated list of cloud HPC.
 
 ## Blog, Documentation, YouTube
 
-- [AWS HPC Blog](https://aws.amazon.com/blogs/hpc/) <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Day 1 HPC](https://day1hpc.com) - AWS engineering's hpc communutiy site. <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw) - Day 1 HPC YouTube Channel. <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Azure High Performance Computing (HPC) Blog](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/bg-p/AzureHighPerformanceComputingBlog) <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [AWS HPC Blog](https://aws.amazon.com/blogs/hpc/)
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [Day 1 HPC](https://day1hpc.com) - AWS engineering's hpc communutiy site.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw) - Day 1 HPC YouTube Channel.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [Azure High Performance Computing (HPC) Blog](https://techcommunity.microsoft.com/t5/azure-high-performance-computing/bg-p/AzureHighPerformanceComputingBlog)
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 
 ## Repository
 
-- [AWS Parallel Cluster UI](https://github.com/aws/aws-parallelcluster-ui) - Front-end for AWS ParallelCluster. <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Azure HPC](https://github.com/Azure/azurehpc) - Easy automation scripts for building a HPC environment in Azure. <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Azhpc-images](https://github.com/Azure/azhpc-images) - Installation scripts for HPC images in Azure Marketplace, specifically CentOS-HPC, Ubuntu-HPC, and AlmaLinux-HPC. <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [AWS Parallel Cluster UI](https://github.com/aws/aws-parallelcluster-ui) - Front-end for AWS ParallelCluster.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [Azure HPC](https://github.com/Azure/azurehpc) - Easy automation scripts for building a HPC environment in Azure.
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [Azhpc-images](https://github.com/Azure/azhpc-images) - Installation scripts for HPC images in Azure Marketplace, specifically CentOS-HPC, Ubuntu-HPC, and AlmaLinux-HPC.
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 ### Azure Cyclecloud
 - [Azure CycleCloud Slurm](https://github.com/Azure/cyclecloud-slurm)
