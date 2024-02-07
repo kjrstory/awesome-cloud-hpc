@@ -25,12 +25,12 @@ Use the following format.
  - If necessary, add an `Additional link` after Description, for example, if there is a separate document page or repository.
  - For AWS, Azure, GCP, OCI, OpenStack and Alibaba Cloud, attach the following badge after the description.
 
-   - AWS: `<a href="#"> <img src="svg/dev/services/aws.svg" alt="aws" height="24px" style="vertical-align:top margin:6px 4px"> </a>`
-   - Azure: `<a href="#"> <img src="svg/dev/services/azure.svg" alt="azure" height="24px" style="vertical-align:top margin:6px 4px"> </a>`
-   - GCP: `<a href="#"> <img src="svg/dev/services/gcp.svg" alt="gcp" height="24px" style="vertical-align:top margin:6px 4px"> </a>`
-   - OCI: `<a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>`
-   - Alibaba Cloud: `<a href="#"> <img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white"> </a>`
-   - OpenStack: `<a href="#"> <img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white"> </a>`
+   - AWS: `<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>`
+   - Azure: `<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>`
+   - GCP: `<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>`
+   - OCI: `<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>`
+   - Alibaba Cloud: `<a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"> </a>`
+   - OpenStack: `<a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;""> </a>`
 ## Content Guidelines
 
  - Provide a concise description of the resource and its relation to cloud HPC.
