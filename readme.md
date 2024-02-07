@@ -184,7 +184,12 @@ A curated list of cloud HPC.
 
 ## SaaS
 
-- [Rescale](https://rescale.com) - Cloud-based platform for computational engineering and R&D.
+- [Rescale](https://rescale.com) - Hybrid-cloud platform offering turnkey HPC with extensive ecosystem integrations and API connections to major PLM, SPDM, and data storage systems.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+`NCP`
 - [Nimbix](https://www.nimbix.net)  
 - [Gompute](https://www.atnorth.com/hpc/gompute)
 - [Uber Cloud](https://www.theubercloud.com)
