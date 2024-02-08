@@ -187,12 +187,11 @@ A curated list of cloud HPC.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [TAESUNG Cloud](https://www.tscloud.co.kr/CloudService) - Offering Ansys applications as a service in a cloud-based SaaS.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Gompute](https://www.atnorth.com/hpc/gompute)
-- [Simscale](https://www.simscale.com)
-- [CFD FEA Service SRL](https://cfdfeaservice.it)
-- [PACE on Cloud](https://landing.pace-on-cloud.com)
-- [Sabalcore](https://www.sabalcore.com)
+- [Simscale](https://www.simscale.com) - Cloud-based computer-aided engineering (CAE) software for computational fluid dynamics, finite element analysis, and thermal simulations, using open source codes in its backend ([Repository(SDK)](https://github.com/SimScaleGmbH)).
+- [CloudHPC](https://cloudhpc.cloud) - On-demand cloud computing for CAE engineering simulations powered by CFD FEA SERVICE.
+- [Sabalcore](https://www.sabalcore.com) - User-friendly, pay-as-you-go high performance computing cloud service with a full-featured, light-weight client that doesn't require a browser.
 
+  
 ## CAE and EDA ISV
 
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - On-demand, cloud-based computing resources, including both interactive workstations and HPC clusters.
