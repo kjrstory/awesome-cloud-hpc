@@ -1,20 +1,11 @@
 This document tracks emerging cloud services and software which we wish to keep an eye on with the possibility of adding to the main awesome list. Typically these services are either not released yet or have not matured to a stable usable form for use in production cloud environments.
 
-- [OCI Cluster Networks with Instance Pools](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/managingclusternetworks.htm) <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
-- [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
-- [Kaleidosim](https://kaleidosim.com)
-- [Cirrascale Cloud Services](https://cirrascale.com/)
-- [Define-tech](https://define-technology.com)
-- [Grey-Matter](https://greymatter.com)
-- [Penguin Computing](https://www.penguinsolutions.com/)
-- [Scale Matrix](https://www.scalematrix.com)
-- [AutoHPC](https://autohpc.net)
-- [SyncHPC](https://www.syncious.com/synchpc.html)
-- [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
 
 ## IaaS-Server
 - [Alibaba SCC](https://www.alibabacloud.com/ko/product/scc)
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [OCI Cluster Networks with Instance Pools](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/managingclusternetworks.htm) <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
+- [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
 
 ## IaaS-Image
 - [NVIDIA HPC SDK GPU-Optimized AMI](https://aws.amazon.com/marketplace/pp/prodview-rf7na2b2ttvdg?sr=0-3&ref_=beagle&applicationId=AWSMPContessa)
@@ -25,5 +16,21 @@ This document tracks emerging cloud services and software which we wish to keep 
 ## Paas
 - [Batch Compute](https://www.alibabacloud.com/ko/product/batch-compute)
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 ## SaaS
 - [EPIC](https://epic.zenotech.com/)
+- [Gompute](https://www.atnorth.com/hpc/gompute)
+- [PACE on Cloud](https://landing.pace-on-cloud.com)
+- [Kaleidosim](https://kaleidosim.com)
+- [Cirrascale Cloud Services](https://cirrascale.com/)
+- [Define-tech](https://define-technology.com)
+- [Grey-Matter](https://greymatter.com)
+- [Penguin Computing](https://www.penguinsolutions.com/)
+- [Scale Matrix](https://www.scalematrix.com)
+- [AutoHPC](https://autohpc.net)
+- [SyncHPC](https://www.syncious.com/synchpc.html)
+
+## Unclassfied
+
+- [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
+
