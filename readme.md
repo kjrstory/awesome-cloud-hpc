@@ -195,7 +195,6 @@ A curated list of cloud HPC.
 ## CAE and EDA ISV
 
 - [Ansys Gateway by AWS](https://www.ansys.com/products/cloud/ansys-gateway) - Cloud-based solution for managing Ansys Simulation & CAD/CAE developments via a web browser.
-On-demand, cloud-based computing resources, including both interactive workstations and HPC clusters.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - Cloud-based interactive workstations and HPC clusters, with flexible licensing that can be accessed from desktop.
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
