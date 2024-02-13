@@ -195,9 +195,8 @@ A curated list of cloud HPC.
   
 ## CAE and EDA ISV
 
-- [Altair One](https://altair.com/altair-one) 
-- [Altair Unlimited](https://altair.com/altair-unlimited)
-- [Altair Unlimited Virtual Appliance](https://altair.com/altair-unlimited-virtual-appliance)
+- [Altair One](https://altair.com/altair-one) - Cloud Gateway offering dynamic and collaborative access to simulation and data analytics technology, along with scalable HPC and cloud resources.
+- [Altair Unlimited](https://altair.com/altair-unlimited) - A turnkey, state-of-the-art private appliance available in both on-premises and cloud-based formats, offering unlimited access to a wide range of Altair HyperWorks solver software.
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - Cloud-based interactive workstations and HPC clusters, with flexible licensing that can be accessed from desktop.
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Ansys Gateway by AWS](https://www.ansys.com/products/cloud/ansys-gateway) - Cloud-based solution for managing Ansys Simulation & CAD/CAE developments via a web browser.
@@ -206,7 +205,9 @@ A curated list of cloud HPC.
 - [Cadence Manged Cloud Service](https://www.cadence.com/en_US/home/solutions/cadence-cloud/managed-cloud-service.html) - EDA-optimized platform that provides a fully integrated and proven cloud environment to jump-start product design, verification, and implementation.
 - [Cadence Palladium and Protium Cloud](https://www.cadence.com/en_US/home/solutions/cadence-cloud/palladium-protium-cloud.html)
 - [Cadence OnCloud Platform](https://www.cadence.com/en_US/home/solutions/cadence-cloud/oncloud.html) - SaaS software platform for all your system design and simulation needs that can operate on any hardware, removing the requirement to run and maintain expensive infrastructure hardware.
-- [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc) 
+
+- [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc) - Part of the Xcelerator as a Service (XaaS) offering powered by Siemens, offers increased flexibility and scalability for CFD simulations with no additional setup needed.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Simulia Cloud](https://www.3ds.com/products-services/simulia/products/simulia-cloud)
 - [Synopsys Cloud](https://www.synopsys.com/cloud.html)
 
