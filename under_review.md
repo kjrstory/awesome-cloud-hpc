@@ -18,7 +18,6 @@ This document tracks emerging cloud services and software which we wish to keep 
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 ## SaaS
-- [EPIC](https://epic.zenotech.com/)
 - [Gompute](https://www.atnorth.com/hpc/gompute)
 - [PACE on Cloud](https://landing.pace-on-cloud.com)
 - [Kaleidosim](https://kaleidosim.com)
