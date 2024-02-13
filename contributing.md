@@ -31,10 +31,12 @@ Use the following format.
    - OCI: `<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>`
    - Alibaba Cloud: `<a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"> </a>`
    - OpenStack: `<a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;""> </a>`
+
 ## Content Guidelines
 
  - Provide a concise description of the resource and its relation to cloud HPC.
  - Keep descriptions brief and to the point.
+ - Please list the new content in each section in alphabetical order.
 
 ## Updating Existing Content
 

@@ -35,4 +35,5 @@ This document tracks emerging cloud services and software which we wish to keep 
 ## Unclassfied
 
 - [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
+- [Cloud MPI](https://github.com/GoogleCloudPlatform/hpc-tools)
 

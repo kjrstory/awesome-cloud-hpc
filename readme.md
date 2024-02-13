@@ -5,7 +5,7 @@ A curated list of cloud HPC.
 
 ## Contents
 
-- [CSP-Solution](#CSP-Solution)
+- [Solution](#CSP-Solution)
 - [Management Tool](#Management-Tool)
 - [IaaS-Server](#IaaS-Server)
 - [IaaS-Network](#IaaS-Network)
@@ -158,7 +158,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [EPIC]() - Primarily for CFD applications, available on the web and created by Zenotech, which also includes Zenotech's ZCFD.
+- [EPIC](epic.zenotech.com/) - Primarily for CFD applications, available on the web and created by Zenotech, which also includes Zenotech's ZCFD.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
