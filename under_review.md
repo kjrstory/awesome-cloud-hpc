@@ -2,8 +2,6 @@ This document tracks emerging cloud services and software which we wish to keep 
 
 
 ## IaaS-Server
-- [Alibaba SCC](https://www.alibabacloud.com/ko/product/scc)
-<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [OCI Cluster Networks with Instance Pools](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/managingclusternetworks.htm) <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
 - [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
 
@@ -15,7 +13,7 @@ This document tracks emerging cloud services and software which we wish to keep 
 
 ## Paas
 - [Batch Compute](https://www.alibabacloud.com/ko/product/batch-compute)
-<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 ## SaaS
 - [Gompute](https://www.atnorth.com/hpc/gompute)
@@ -37,3 +35,4 @@ This document tracks emerging cloud services and software which we wish to keep 
 - [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/)  
 - [Cloud MPI](https://github.com/GoogleCloudPlatform/hpc-tools)
 - [Millennum M1](https://www.cadence.com/en_US/home/tools/system-analysis/computational-fluid-dynamics/millennium-m1.html/) - The industry’s first turnkey CFD solution, overcomes these obstacles with a combination of best-in-class graphic processing unit (GPU) resident CFD solvers such as the Cadence Fidelity LES Solver for large eddy simulations (LES) and scalable high-performance computing (HPC) hardware to unleash unprecedented performance
+- [Luminary Cloud](https://www.luminarycloud.com)

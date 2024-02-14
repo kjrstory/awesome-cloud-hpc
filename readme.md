@@ -60,6 +60,7 @@ A curated list of cloud HPC.
 
 ## IaaS-Server 
 
+
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Generation AMD EPYC processors.
@@ -109,7 +110,9 @@ A curated list of cloud HPC.
 - [GCP G2 machine-series](https://cloud.google.com/compute/docs/compute-optimized-machines#h3_series) - GPU instances powerd by NVIDIA L4 GPUs.
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
- 
+- [Super Computing Cluster](https://www.alibabacloud.com/en/product/scc) - Based on ECS Bare Metal Instance powered by Alibaba Cloud, utilizes high-speed RDMA-based connections to enhance network performance and acceleration ratio in large-scale clusters, providing high-bandwidth and low-latency networks.
+<a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 ## IaaS-Network
 
 - [Azure InfiniBand](https://learn.microsoft.com/en-us/azure/virtual-machines/extensions/enable-infiniband) - RDMA capable HB-series and N-series VMs communicate over the InfiniBand network.
