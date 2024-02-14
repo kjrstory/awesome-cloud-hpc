@@ -181,7 +181,6 @@ A curated list of cloud HPC.
 
 ## SaaS
 
-
 - [CloudHPC](https://cloudhpc.cloud) - On-demand cloud computing for CAE engineering simulations powered by CFD FEA SERVICE.
 - [Nimbix](https://www.nimbix.net) - A comprehensive cloud computing solution powered by Atos, offering access to the HyperHub Application Marketplace with over 1,000 high-performance applications and workflows for diverse industries ([Repository](https://github.com/nimbix)).
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -215,12 +214,22 @@ A curated list of cloud HPC.
 - [Ansys Gateway by AWS](https://www.ansys.com/products/cloud/ansys-gateway) - Cloud-based solution for managing Ansys Simulation & CAD/CAE developments via a web browser.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-- [Cadence Manged Cloud Service](https://www.cadence.com/en_US/home/solutions/cadence-cloud/managed-cloud-service.html) - EDA-optimized platform that provides a fully integrated and proven cloud environment to jump-start product design, verification, and implementation.
-- [Cadence Palladium and Protium Cloud](https://www.cadence.com/en_US/home/solutions/cadence-cloud/palladium-protium-cloud.html)
 - [Cadence OnCloud Platform](https://www.cadence.com/en_US/home/solutions/cadence-cloud/oncloud.html) - SaaS software platform for all your system design and simulation needs that can operate on any hardware, removing the requirement to run and maintain expensive infrastructure hardware.
+
+- [Cloud Passport](https://www.cadence.com/en_US/home/solutions/cadence-cloud/cloud-passport.html) - Cloud-ready tools powered by Cadence that have been optimized for use in customers' own cloud environment.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Managed Cloud Service](https://www.cadence.com/en_US/home/solutions/cadence-cloud/managed-cloud-service.html) - EDA-optimized platform powered by Cadence that provides a fully integrated and proven cloud environment to jump-start product design, verification, and implementation.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Palladium and Protium Cloud](https://www.cadence.com/en_US/home/solutions/cadence-cloud/palladium-protium-cloud.html) - Emulation and prototyping offering provides pre-silicon hardware system verification and debug powered by Cadence.
 
 - [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc) - Part of the Xcelerator as a Service (XaaS) offering powered by Siemens, offers increased flexibility and scalability for CFD simulations with no additional setup needed.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [Simulia Cloud](https://www.3ds.com/products-services/simulia/products/simulia-cloud)
 - [Synopsys Cloud](https://www.synopsys.com/cloud.html)
 
