@@ -230,11 +230,14 @@ A curated list of cloud HPC.
 
 - [Palladium and Protium Cloud](https://www.cadence.com/en_US/home/solutions/cadence-cloud/palladium-protium-cloud.html) - Emulation and prototyping offering provides pre-silicon hardware system verification and debug powered by Cadence.
 
-- [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc) - Part of the Xcelerator as a Service (XaaS) offering powered by Siemens, offers increased flexibility and scalability for CFD simulations with no additional setup needed.
+- [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc) - Part of the Xcelerator as a Service(XaaS) offering powered by Siemens, offers increased flexibility and scalability for CFD simulations with no additional setup needed.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-- [Simulia Cloud](https://www.3ds.com/products-services/simulia/products/simulia-cloud)
-- [Synopsys Cloud](https://www.synopsys.com/cloud.html)
+- [3DEXPERIENCE platform on ther cloud](https://www.3ds.com/cloud) - Complete suite of industry-leading apps and software(CATIA, SIMULIA, DELMIA, 3DEXCITE, etc.) powered by Dassalut Systèmes.
+- [Synopsys Cloud](https://www.synopsys.com/cloud.html) - Platform that enables delivery of EDA tools, IP and infrastructure for end-to-end chip design through a browser.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 
 ## Job Scheduler
