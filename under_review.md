@@ -11,10 +11,6 @@ This document tracks emerging cloud services and software which we wish to keep 
 - [SUSE Linux Enterprise High Performance Computing 15 Family - BYOS x86_64](https://aws.amazon.com/marketplace/pp/prodview-2cvp4ibmkuy7c?sr=0-6&ref_=beagle&applicationId=AWSMPContessa)
 - [HPCBOX](https://www.drizti.com/hpcbox.html) ![](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?search=hpcbox&page=1)
 
-## Paas
-- [Batch Compute](https://www.alibabacloud.com/ko/product/batch-compute)
-<a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-
 ## SaaS
 - [Gompute](https://www.atnorth.com/hpc/gompute)
 - [PACE on Cloud](https://landing.pace-on-cloud.com)
