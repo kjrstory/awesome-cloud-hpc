@@ -22,6 +22,7 @@ A curated list of cloud HPC.
 
 - [Amazon Web Services](https://aws.amazon.com/hpc/)
 - [Google GCP](https://cloud.google.com/solutions/hpc)
+- [IBM Cloud](https://www.ibm.com/high-performance-computing)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/high-performance-computing)
 - [Naver NCP](https://www.ncloud.com/solution/type/hpc)
 - [Oracle OCI](https://www.oracle.com/cloud/hpc/)
@@ -50,6 +51,9 @@ A curated list of cloud HPC.
 `Baidu BCE`
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Microsoft HPC Pack](https://learn.microsoft.com/en-us/powershell/high-performance-computing) - Creation and management tool of HPC clusters, enabling the use of Windows or Linux nodes on-premises and cloud resources in Azure.
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [OCI HPC Cluster](https://cloudmarketplace.oracle.com/marketplace/listing/67628143) - Automated HPC cluster deployment on OCI.
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -247,15 +251,34 @@ A curated list of cloud HPC.
 
 ## Job Scheduler
 
-- [Altair HPCWorks Platform](https://altair.com/altair-hpcworks) - High-Performance Computing (HPC) and Cloud Platform by Altair.
+
 - [Altair Access](https://altair.com/access) - HPC Job Submission Portal for Researchers and Engineers.
-- [Altair Control](https://altair.com/control) - HPC Administrator's Control Center for Managing, Optimizing, and Forecasting Resources.
-- [Altair NavOps](https://altair.com/altair-navops) - Cloud Migration, Automation, and Spend Management for HPC.
+- [Altair Control](https://altair.com/control) - HPC Administrator's Control Center for Managing, Optimizing, and Forecasting Resources with seamless cloud bursting capabilities. 
 - [Altair Grid Engine](https://altair.com/grid-engine) - Distributed Resource Management and Optimization.
+- [Altair HPCWorks](https://altair.com/altair-hpcworks) - High-Performance Computing (HPC) and Cloud Platform by Altair.
+- [Altair NavOps](https://altair.com/altair-navops) - Cloud Migration, Automation, and Spend Management for HPC.
 - [Altair PBS-Professional](https://altair.com/pbs-professional) - Industry-leading Workload Manager and Job Scheduler for HPC and High-throughput Computing.
-- [IBM LSF Suite](https://www.ibm.com/products/hpc-workload-management)
-- [MS HPC Pack](https://learn.microsoft.com/en-us/powershell/high-performance-computing/overview?view=hpc19-ps) 
-- [Slurm Cloud Computing](https://slurm.schedmd.com/elastic_computing.html)
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+`Orange Techinical Cloud`
+`Deustche Telekom`
+`HUAWEI Cloud`
+`OpenStack Stein`
+
+
+- [IBM Spectrun LSF Suites](https://www.ibm.com/products/hpc-workload-management) - Workload management platform and job scheduler for HPC with dynamic HPC cloud support for all major cloud providers ([Repository](https://github.com/IBM/ibm-spectrum-scale-cloud-install)).
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=IBM%20Cloud&logoColor=white" alt="ibm cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Slurm Power Saving Guide](https://slurm.schedmd.com/power_save.html) - Suspending and resuming nodes as needed, and supports cloud integration with providers like AWS, GCP, and Azure for workload management and cloud bursting
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 
 ## Blog Documentation YouTube
 
