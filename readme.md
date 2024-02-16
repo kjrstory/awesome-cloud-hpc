@@ -34,6 +34,8 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool for deploying and managing HPC clusters ([Repository](https://github.com/aws/aws-parallelcluster)).
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [AWS Parallel Cluster UI](https://github.com/aws/aws-parallelcluster-ui) - Front-end for AWS ParallelCluster.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments.
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Azure HPC OnDemand Platform](https://azure.github.io/az-hop/) - Azure-based HPC cluster solution with features like Terraform, Ansible, Packer integration, job scheduling, autoscaling, and monitoring ([Repository](https://github.com/Azure/az-hop), [Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/azhpc.azhop)).
@@ -153,6 +155,8 @@ A curated list of cloud HPC.
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
+- [Azhpc-images](https://github.com/Azure/azhpc-images) - Installation scripts for HPC images in Azure Marketplace, specifically CentOS-HPC, Ubuntu-HPC, and AlmaLinux-HPC.
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 ## PaaS 
 
@@ -265,7 +269,7 @@ A curated list of cloud HPC.
 `Orange Techinical Cloud`
 `Deustche Telekom`
 `HUAWEI Cloud`
-`OpenStack Stein`
+<a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 
 - [IBM Spectrun LSF Suites](https://www.ibm.com/products/hpc-workload-management) - Workload management platform and job scheduler for HPC with dynamic HPC cloud support for all major cloud providers ([Repository](https://github.com/IBM/ibm-spectrum-scale-cloud-install)).
@@ -273,6 +277,9 @@ A curated list of cloud HPC.
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=IBM%20Cloud&logoColor=white" alt="ibm cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Slurm on Google Cloud Platform](https://github.com/GoogleCloudPlatform/slurm-gcp) - Open-source software solution that enables setting up Slurm clusters on Google Cloud Platform with ease.
+<a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [Slurm Power Saving Guide](https://slurm.schedmd.com/power_save.html) - Suspending and resuming nodes as needed, and supports cloud integration with providers like AWS, GCP, and Azure for workload management and cloud bursting
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -290,6 +297,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [GCP HPC Blog](https://cloud.google.com/blog/topics/hpc)
+<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw) - Day 1 HPC YouTube Channel.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -299,16 +307,15 @@ A curated list of cloud HPC.
 
 
 
-## Repository
+## Recipes
 
-- [AWS Parallel Cluster UI](https://github.com/aws/aws-parallelcluster-ui) - Front-end for AWS ParallelCluster.
-<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Azure HPC](https://github.com/Azure/azurehpc) - Easy automation scripts for building a HPC environment in Azure.
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Azhpc-images](https://github.com/Azure/azhpc-images) - Installation scripts for HPC images in Azure Marketplace, specifically CentOS-HPC, Ubuntu-HPC, and AlmaLinux-HPC.
-<a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [HPC Recipes for AWS](https://github.com/aws-samples/aws-hpc-recipes) - Example recipes that demonstrate how to build HPC systems using AWS ParallelCluster, Research and Engineering Studio on AWS, and other AWS products.
+<a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-### Azure Cyclecloud
+
+### Azure CycleCloud
 - [Azure CycleCloud Slurm](https://github.com/Azure/cyclecloud-slurm)
 - [Azure CycleCloud PBSPro](https://github.com/Azure/cyclecloud-pbspro)
 - [Azure CycleCloud LSF](https://github.com/Azure/cyclecloud-lsf)
@@ -317,5 +324,6 @@ A curated list of cloud HPC.
 - [Azure CycleCloud GridEngine](https://github.com/Azure/cyclecloud-gridengine)
 - [Azure CycleCloud HPC Pack](https://github.com/Azure/cyclecloud-hpcpack)
 - [Azure CycleCloud Autoscaling Library](https://github.com/Azure/cyclecloud-scalelib)
+
 
 
