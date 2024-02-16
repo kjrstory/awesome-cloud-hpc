@@ -22,6 +22,7 @@ A curated list of cloud HPC.
 
 - [Amazon Web Services](https://aws.amazon.com/hpc/)
 - [Google GCP](https://cloud.google.com/solutions/hpc)
+- [HUAWEI Cloud](https://www.huaweicloud.com/intl/en-us/solution/highperformance/)
 - [IBM Cloud](https://www.ibm.com/high-performance-computing)
 - [Microsoft Azure](https://azure.microsoft.com/en-us/solutions/high-performance-computing)
 - [Naver NCP](https://www.ncloud.com/solution/type/hpc)

@@ -1,5 +1,7 @@
 This document tracks emerging cloud services and software which we wish to keep an eye on with the possibility of adding to the main awesome list. Typically these services are either not released yet or have not matured to a stable usable form for use in production cloud environments.
 
+## Management Tool
+- [HPC-S2](https://support.huaweicloud.com/intl/en-us/usermanual-hpcss/hpcss_01_0002.html)
 
 ## IaaS-Server
 - [OCI Cluster Networks with Instance Pools](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/managingclusternetworks.htm) <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
