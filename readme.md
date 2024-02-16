@@ -280,7 +280,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="svg/dev/services/gcp.svg" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 
-## Blog Documentation YouTube
+## Resource
 
 - [AWS HPC Blog](https://aws.amazon.com/blogs/hpc/)
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -288,8 +288,15 @@ A curated list of cloud HPC.
 <a href="#"><img src="svg/dev/services/azure.svg" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Day 1 HPC](https://day1hpc.com) - AWS engineering's hpc communutiy site.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [GCP HPC Blog](https://cloud.google.com/blog/topics/hpc)
+
 - [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw) - Day 1 HPC YouTube Channel.
 <a href="#"><img src="svg/dev/services/aws.svg" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Oracle Cloud Infrastructure Blog(Performance Solutions)](https://blogs.oracle.com/cloud-infrastructure/category/oci-performance-solutions)
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 
 
 ## Repository
