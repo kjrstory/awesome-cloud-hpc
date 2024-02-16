@@ -50,7 +50,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 `Tencent Cloud`
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-`Huawei Cloud`
+<a href="#"><img src="https://img.shields.io/badge/HUAWEI_CLOUD-FF0000?style=flat&logo=huawei&logoColor=white" alt="HUAWEI CLOUD" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 `Baidu BCE`
 <a href="#"><img src="https://img.shields.io/badge/azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -269,7 +269,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 `Orange Techinical Cloud`
 `Deustche Telekom`
-`HUAWEI Cloud`
+<a href="#"><img src="https://img.shields.io/badge/HUAWEI_CLOUD-FF0000?style=flat&logo=huawei&logoColor=white" alt="HUAWEI CLOUD" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 
