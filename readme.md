@@ -203,11 +203,13 @@ A curated list of cloud HPC.
 ## SaaS
 
 - [CloudHPC](https://cloudhpc.cloud) - On-demand cloud computing for CAE engineering simulations powered by CFD FEA SERVICE.
+- [Kaleidosim](https://kaleidosim.com) - Enabling of browser-based access to HPC software through advanced cloud orchestration technology.
 - [Nimbix](https://www.nimbix.net) - A comprehensive cloud computing solution powered by Atos, offering access to the HyperHub Application Marketplace with over 1,000 high-performance applications and workflows for diverse industries ([Repository](https://github.com/nimbix)).
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+- [OnScale Solve](https://onscale.com/solve/features) - The cloud engineering simulation platform built by engineers for engineers.
 - [Rescale](https://rescale.com) - Hybrid-cloud platform offering turnkey HPC with extensive(1000+) ecosystem integrations and API connections to major PLM, SPDM, and data storage systems([Repository](https://github.com/rescale)).
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -301,7 +303,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [GCP HPC Blog](https://cloud.google.com/blog/topics/hpc)
-<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [HPC Tech Shorts](https://www.youtube.com/channel/UChSIn5kcWQvJxW17KIjdLVw) - Day 1 HPC YouTube Channel.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
