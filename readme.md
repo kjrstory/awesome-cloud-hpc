@@ -65,6 +65,11 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution for deploying various HPC file servers on OCI. Automated HPC cluster deployment on OCI.
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a> 
+
+- [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/) - The Flight User Suite for improved HPC access through CLI tools, the Flight Web Suite as a web interface for HPC end-users, and the Flight Admin Tools for administrative HPC environment configuration.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [SCP HPC Cluster](https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html) - HPC cluster environment on SCP.
 <a href="#"><img src="https://img.shields.io/badge/SCP-0066ff?style=flat" alt="scp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
