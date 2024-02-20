@@ -282,6 +282,8 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/HUAWEI_CLOUD-FF0000?style=flat&logo=huawei&logoColor=white" alt="HUAWEI CLOUD" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
+- [Azure CycleCloud Autoscaling Library](https://github.com/Azure/cyclecloud-scalelib) - Python helpers to simplify autoscaler development for any scheduler in Azure using Azure CycleCloud and the Azure CycleCloud REST API to orchestrate resource creation in Microsoft Azure.
+<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [IBM Spectrun LSF Suites](https://www.ibm.com/products/hpc-workload-management) - Workload management platform and job scheduler for HPC with dynamic HPC cloud support for all major cloud providers ([Repository](https://github.com/IBM/ibm-spectrum-scale-cloud-install)).
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
