@@ -335,6 +335,9 @@ A curated list of cloud HPC.
 - [Cloud MPI](https://github.com/GoogleCloudPlatform/hpc-tools) - Collection of scripts for optimizing MPI performance in tightly coupled HPC workloads on GCP Compute Engines. 
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
+- [Dynamic EC2 budget control](https://github.com/aws-samples/dynamic-ec2-budget-control) - Dynamic EC2 cores allocation limit for each business unit (BU), automatically adapted according to a past time frame (e.g. one week) spending on AWS Parallel Cluster.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [HPC Recipes for AWS](https://github.com/aws-samples/aws-hpc-recipes) - Example recipes that demonstrate how to build HPC systems using AWS ParallelCluster, Research and Engineering Studio on AWS, and other AWS products.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
