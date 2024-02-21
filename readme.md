@@ -75,7 +75,6 @@ A curated list of cloud HPC.
 
 ## IaaS-Server 
 
-
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Amazon EC2 Hpc7a](https://aws.amazon.com/ec2/instance-types/hpc7a/) - HPC-optimized instances powered by 4th Generation AMD EPYC processors.
@@ -136,6 +135,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertial-align:top margin: 0 6px;"></a>
 
 ## IaaS-Storage
+
 - [Amazon FSx for Lustre](https://aws.amazon.com/fsx/lustre/) - Fully managed shared storage with the scalability and performance of the popular Lustre file system.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system.
@@ -276,7 +276,6 @@ A curated list of cloud HPC.
 
 ## Job Scheduler
 
-
 - [Altair Access](https://altair.com/access) - HPC Job Submission Portal for Researchers and Engineers.
 - [Altair Control](https://altair.com/control) - HPC Administrator's Control Center for Managing, Optimizing, and Forecasting Resources with seamless cloud bursting capabilities. 
 - [Altair Grid Engine](https://altair.com/grid-engine) - Distributed Resource Management and Optimization.
@@ -328,11 +327,14 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 
-
 ## Recipes
 
 - [Azure HPC](https://github.com/Azure/azurehpc) - Easy automation scripts for building a HPC environment in Azure.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Cloud MPI](https://github.com/GoogleCloudPlatform/hpc-tools) - Collection of scripts for optimizing MPI performance in tightly coupled HPC workloads on GCP Compute Engines. 
+<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [HPC Recipes for AWS](https://github.com/aws-samples/aws-hpc-recipes) - Example recipes that demonstrate how to build HPC systems using AWS ParallelCluster, Research and Engineering Studio on AWS, and other AWS products.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
