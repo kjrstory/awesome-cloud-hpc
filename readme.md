@@ -224,7 +224,16 @@ A curated list of cloud HPC.
 - [Sabalcore](https://www.sabalcore.com) - User-friendly, pay-as-you-go high performance computing cloud service with a full-featured, light-weight client that doesn't require a browser.
 - [Scala Computing](https://www.scalacomputing.com) - Optimized, automated cloud-based HPC resource management platform with integrated network simulation and EDA tools, offering flexible, on-demand computing, secure workflows, and global infrastructure access.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [Simscale](https://www.simscale.com) - Cloud-based computer-aided engineering (CAE) software for computational fluid dynamics, finite element analysis, and thermal simulations, using open source codes in its backend ([Repository(SDK)](https://github.com/SimScaleGmbH)).
+
+- [SyncHPC](https://www.syncious.com/synchpc.html) - Powerful and flexible hybrid HPC and VDI management platform that provides a comprehensive solution for managing high-performance computing (HPC) and Virtual Desktop Infrastructure (VDI) resources.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=IBM%20Cloud&logoColor=white" alt="ibm cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [TAESUNG Cloud](https://www.tscloud.co.kr/CloudService) - Offering Ansys applications as a service in a cloud-based SaaS.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Uber Cloud](https://www.theubercloud.com) - A platform featuring HD 3D graphics desktop GUI, BYOL simulation software support, scalable container-based architecture, and automated cloud computing on AWS, Azure, Google, and HPE.
