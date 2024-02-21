@@ -22,7 +22,6 @@ This document tracks emerging cloud services and software which we wish to keep 
 - [Penguin Computing](https://www.penguinsolutions.com/)
 - [Scale Matrix](https://www.scalematrix.com)
 - [AutoHPC](https://autohpc.net)
-- [SyncHPC](https://www.syncious.com/synchpc.html)
   
 ## CAE, EDA ISV
 
