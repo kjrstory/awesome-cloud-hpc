@@ -44,10 +44,13 @@ A curated list of cloud HPC.
 - [CloudyCluster](https://cloudycluster.com) - Turn-Key Cloud HPC elastic orchestration with a familiar hpc look and feel.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/) - The Flight User Suite for improved HPC access through CLI tools, the Flight Web Suite as a web interface for HPC end-users, and the Flight Admin Tools for administrative HPC environment configuration.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Google Cloud's open-source software for deploying high-performance computing environments on GCP, featuring customizable Terraform modules and Packer integration. ([Repository](https://github.com/GoogleCloudPlatform/hpc-toolkit)).
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015) - KT Cloud's HPC management product integrating Altair's solutions.
-<a href="#"><img src="https://img.shields.io/badge/kt_cloud-ff1a1a?style=flat" alt="kt cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [HPC-NOW](https://github.com/zhenrong-wang/hpc-now) - The platform aims to simplify the process of starting and managing HPC workloads in the cloud.
 <a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -58,6 +61,9 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
+- [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015) - KT Cloud's HPC management product integrating Altair's solutions.
+<a href="#"><img src="https://img.shields.io/badge/kt_cloud-ff1a1a?style=flat" alt="kt cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [Microsoft HPC Pack](https://learn.microsoft.com/en-us/powershell/high-performance-computing) - Creation and management tool of HPC clusters, enabling the use of Windows or Linux nodes on-premises and cloud resources in Azure.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
@@ -65,10 +71,6 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution for deploying various HPC file servers on OCI. Automated HPC cluster deployment on OCI.
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a> 
-
-- [Openflight Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/) - The Flight User Suite for improved HPC access through CLI tools, the Flight Web Suite as a web interface for HPC end-users, and the Flight Admin Tools for administrative HPC environment configuration.
-<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [SCP HPC Cluster](https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html) - HPC cluster environment on SCP.
 <a href="#"><img src="https://img.shields.io/badge/SCP-0066ff?style=flat" alt="scp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -140,7 +142,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Amazon FSx for OpenZFS](https://aws.amazon.com/fsx/openzfs/) - Fully managed shared storage built on the popular OpenZFS file system.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Azure HPC Cache](https://azure.microsoft.com/en-us/products/hpc-cache) File caching for HPC.
+- [Azure HPC Cache](https://azure.microsoft.com/en-us/products/hpc-cache) File caching for HPC on Azure.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Azure Managed Lustre](https://azure.microsoft.com/en-us/products/managed-lustre) - Managed, pay-as-you-go file system for high-performance computing (HPC) and AI workloads.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -153,6 +155,9 @@ A curated list of cloud HPC.
 
 ## IaaS-Image
 
+- [Azhpc-images](https://github.com/Azure/azhpc-images) - Installation scripts for HPC images in Azure Marketplace, specifically CentOS-HPC, Ubuntu-HPC, and AlmaLinux-HPC.
+<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [Flight Solo](https://www.openflighthpc.org/latest/docs/flight-solo/) - HPC-ready, platform-agnostic image approach to deploying HPC resources powerd by alcesflight.
 <a href="https://aws.amazon.com/marketplace/pp/prodview-q5u533n6b34oc?sr=0-3&ref_=beagle&applicationId=AWSMPContessa"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -163,9 +168,6 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-
-- [Azhpc-images](https://github.com/Azure/azhpc-images) - Installation scripts for HPC images in Azure Marketplace, specifically CentOS-HPC, Ubuntu-HPC, and AlmaLinux-HPC.
-<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 ## PaaS 
 
@@ -183,9 +185,6 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [EPIC](https://epic.zenotech.com/) - Primarily for CFD applications, available on the web and created by Zenotech, which also includes Zenotech's ZCFD.
-<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [NICE DCV](https://aws.amazon.com/ko/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming.
@@ -208,6 +207,11 @@ A curated list of cloud HPC.
 ## SaaS
 
 - [CloudHPC](https://cloudhpc.cloud) - On-demand cloud computing for CAE engineering simulations powered by CFD FEA SERVICE.
+
+- [EPIC](https://epic.zenotech.com/) - Primarily for CFD applications, available on the web and created by Zenotech, which also includes Zenotech's ZCFD.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [Kaleidosim](https://kaleidosim.com) - Enabling of browser-based access to HPC software through advanced cloud orchestration technology.
 - [Nimbix](https://www.nimbix.net) - A comprehensive cloud computing solution powered by Atos, offering access to the HyperHub Application Marketplace with over 1,000 high-performance applications and workflows for diverse industries ([Repository](https://github.com/nimbix)).
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -244,6 +248,8 @@ A curated list of cloud HPC.
   
 ## CAE and EDA ISV
 
+- [3DEXPERIENCE platform on ther cloud](https://www.3ds.com/cloud) - Complete suite of industry-leading apps and software(CATIA, SIMULIA, DELMIA, 3DEXCITE, etc.) powered by Dassalut Systèmes.
+  
 - [Altair One](https://altair.com/altair-one) - Cloud Gateway offering dynamic and collaborative access to simulation and data analytics technology, along with scalable HPC and cloud resources.
 - [Altair Unlimited](https://altair.com/altair-unlimited) - A turnkey, state-of-the-art private appliance available in both on-premises and cloud-based formats, offering unlimited access to a wide range of Altair HyperWorks solver software.
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - Cloud-based interactive workstations and HPC clusters, with flexible licensing that can be accessed from desktop.
@@ -267,12 +273,10 @@ A curated list of cloud HPC.
 - [Simcenter Cloud HPC](https://plm.sw.siemens.com/en-US/simcenter/integration-solutions/cloud-hpc) - Part of the Xcelerator as a Service(XaaS) offering powered by Siemens, offers increased flexibility and scalability for CFD simulations with no additional setup needed.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-- [3DEXPERIENCE platform on ther cloud](https://www.3ds.com/cloud) - Complete suite of industry-leading apps and software(CATIA, SIMULIA, DELMIA, 3DEXCITE, etc.) powered by Dassalut Systèmes.
 - [Synopsys Cloud](https://www.synopsys.com/cloud.html) - Platform that enables delivery of EDA tools, IP and infrastructure for end-to-end chip design through a browser.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-
 
 ## Job Scheduler
 
@@ -290,9 +294,6 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/HUAWEI_CLOUD-FF0000?style=flat&logo=huawei&logoColor=white" alt="HUAWEI CLOUD" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-- [Azure CycleCloud Autoscaling Library](https://github.com/Azure/cyclecloud-scalelib) - Python helpers to simplify autoscaler development for any scheduler in Azure using Azure CycleCloud and the Azure CycleCloud REST API to orchestrate resource creation in Microsoft Azure.
-<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-
 - [IBM Spectrun LSF Suites](https://www.ibm.com/products/hpc-workload-management) - Workload management platform and job scheduler for HPC with dynamic HPC cloud support for all major cloud providers ([Repository](https://github.com/IBM/ibm-spectrum-scale-cloud-install)).
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -302,7 +303,7 @@ A curated list of cloud HPC.
 - [Slurm on Google Cloud Platform](https://github.com/GoogleCloudPlatform/slurm-gcp) - Open-source software solution that enables setting up Slurm clusters on Google Cloud Platform with ease.
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-- [Slurm Power Saving Guide](https://slurm.schedmd.com/power_save.html) - Suspending and resuming nodes as needed, and supports cloud integration with providers like AWS, GCP, and Azure for workload management and cloud bursting
+- [Slurm Power Saving Guide](https://slurm.schedmd.com/power_save.html) - Suspending and resuming nodes as needed, and supports cloud integration with providers like AWS, GCP, and Azure for workload management and cloud bursting.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
