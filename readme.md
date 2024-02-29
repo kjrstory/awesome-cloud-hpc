@@ -75,6 +75,9 @@ A curated list of cloud HPC.
 - [SCP HPC Cluster](https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html) - HPC cluster environment on SCP.
 <a href="#"><img src="https://img.shields.io/badge/SCP-0066ff?style=flat" alt="scp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
+- [Scyld Cloud Manager](https://www.penguinsolutions.com/products/software/scyld-cloud-manager) - Comprehensive management platform to cloud-enable Enterprise HPC.
+
+
 ## IaaS-Server 
 
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors.
@@ -196,6 +199,18 @@ A curated list of cloud HPC.
 - [Rntier Cloud](https://www.rntiercloud.com) - R&D cloud platform enabling easy and quick access to complex HPC simulations, vGPU-based remote 3D design, and multi-GPU deep learning environments via a web browser.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/NCP-03cf5d?style=flat" alt="ncp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+
+- [Scyld Cloud Central™](https://www.penguinsolutions.com/solutions/cloud/scyld-cloud-central) - Fully managed, cloud-based, end-to-end solution for high performance computing that makes it easier and faster for end-users, developers, and data scientists to deploy pure HPC, pure AI, and converged HPC/AI workloads on high-performance clusters.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Scyld ClusterWare](https://www.penguinsolutions.com/products/software/scyld-clusterware) - Intelligent suite of management functionality, including node provisioning, image customization, and cluster monitoring, while serving as a platform for additional software and schedulers.
+
+- [Scyld Cloud Workstation](https://www.penguinsolutions.com/products/software/scyld-cloud-workstation) - Unparalleled performance and a breadth of features that allow it to stand out as a solution for remote access.
+
 - [Skypilot](https://skypilot.readthedocs.io) - Framework for running LLMs, AI, and batch jobs on any cloud, offering maximum cost savings, highest GPU availability, and managed execution ([Repository](https://github.com/skypilot-org/skypilot)).
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -203,6 +218,8 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=IBM%20Cloud&logoColor=white" alt="ibm cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/SCP-0066ff?style=flat" alt="scp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+
 
 ## SaaS
 

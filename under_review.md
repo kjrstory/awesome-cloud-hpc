@@ -19,7 +19,6 @@ This document tracks emerging cloud services and software which we wish to keep 
 - [Cirrascale Cloud Services](https://cirrascale.com/)
 - [Define-tech](https://define-technology.com)
 - [Grey-Matter](https://greymatter.com)
-- [Penguin Computing](https://www.penguinsolutions.com/)
 - [Scale Matrix](https://www.scalematrix.com)
 - [AutoHPC](https://autohpc.net)
   
