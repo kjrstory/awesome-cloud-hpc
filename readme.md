@@ -208,6 +208,10 @@ A curated list of cloud HPC.
 
 - [CloudHPC](https://cloudhpc.cloud) - On-demand cloud computing for CAE engineering simulations powered by CFD FEA SERVICE.
 
+- [dicehub](https://dicehub.com) - Real-time collaborative CFD (Computational Fluid Dynamics) simulations platform which simplifies your engineering workflow, offers massive parallel scaling and runs in web browser.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [EPIC](https://epic.zenotech.com/) - Primarily for CFD applications, available on the web and created by Zenotech, which also includes Zenotech's ZCFD.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
