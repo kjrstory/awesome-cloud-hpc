@@ -167,6 +167,12 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [GCP HPC-ready VM](https://cloud.google.com/compute/docs/instances/create-hpc-vm) - CentOS 7.9 or Rocky Linux 8 based VM image that is optimized for tightly coupled HPC workloads [Marketplace CentOS 7](https://console.cloud.google.com/marketplace/product/click-to-deploy-images/hpc-vm-image-centos-7) [Marketplace Rocky Linux 8](https://console.cloud.google.com/marketplace/product/click-to-deploy-images/hpc-vm-image-rocky-linux-8?q=search&referrer=search).
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+
+- [HPCBOX](https://www.drizti.com/hpcbox.html) - Desktop-centric, intelligent workflow cloud HPC platform for automating and executing your application pipelines ([Marketplace](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?search=hpcbox)).
+<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+
 - [HPC Pack 2019](https://cloudinfrastructureservices.co.uk/how-to-setup-hpc-pack-2019-cluster-in-azure-aws-gcp/)(Cloud Infrastructure Services) -  Microsoft HPC Pack 2019 image powered by Cloud Infrastructure Services ([Marketplace(Azure)](https://azuremarketplace.microsoft.com/en-us/marketplace/apps/cloud-infrastructure-services.hpc2019-windows-server-2019), [Marketplace(AWS)](https://aws.amazon.com/marketplace/pp/prodview-hxo3dtqd4srdk), [Marketplace(GCP)](https://console.cloud.google.com/marketplace/product/cloud-infrastructure-services/hpc2019-windows-2019)).
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>

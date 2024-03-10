@@ -10,7 +10,7 @@ This document tracks emerging cloud services and software which we wish to keep 
 ## IaaS-Image
 
 - [SUSE Linux Enterprise High Performance Computing 15 Family - BYOS x86_64](https://aws.amazon.com/marketplace/pp/prodview-2cvp4ibmkuy7c?sr=0-6&ref_=beagle&applicationId=AWSMPContessa)
-- [HPCBOX](https://www.drizti.com/hpcbox.html) ![](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?search=hpcbox&page=1)
+
 
 ## SaaS
 - [Gompute](https://www.atnorth.com/hpc/gompute)
