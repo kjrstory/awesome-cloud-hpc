@@ -3,9 +3,6 @@ This document tracks emerging cloud services and software which we wish to keep 
 ## Management Tool
 - [HPC-S2](https://support.huaweicloud.com/intl/en-us/usermanual-hpcss/hpcss_01_0002.html)
 
-## IaaS-Server
-- [OCI Cluster Networks with Instance Pools](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/managingclusternetworks.htm) <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
-- [OCI Compute Clusters](https://docs.oracle.com/en-us/iaas/Content/Compute/Tasks/compute-clusters.htm) - Group of high performance computing (HPC), GPU, or optimized instances that are connected with a high-bandwidth, ultra low-latency network. <a href="#"> <img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black"> </a>
 
 ## IaaS-Image
 
