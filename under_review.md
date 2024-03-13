@@ -21,4 +21,4 @@ This document tracks emerging cloud services and software which we wish to keep 
 ## Unclassfied
 
 - [Millennum M1](https://www.cadence.com/en_US/home/tools/system-analysis/computational-fluid-dynamics/millennium-m1.html/) - The industry’s first turnkey CFD solution, overcomes these obstacles with a combination of best-in-class graphic processing unit (GPU) resident CFD solvers such as the Cadence Fidelity LES Solver for large eddy simulations (LES) and scalable high-performance computing (HPC) hardware to unleash unprecedented performance
-- [Luminary Cloud](https://www.luminarycloud.com)
+
