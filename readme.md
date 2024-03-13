@@ -252,7 +252,7 @@ A curated list of cloud HPC.
 
 - [Kaleidosim](https://kaleidosim.com) - Enabling of browser-based access to HPC software through advanced cloud orchestration technology.
 
-- [Luminary Cloud](https://www.luminarycloud.com) - A cloud-based, pay-per-use SaaS simulation platform with a fast, GPU-powered, cloud-native CFD solver and comprehensive high-fidelity capabilities
+- [Luminary Cloud](https://www.luminarycloud.com) - A cloud-based, pay-per-use SaaS simulation platform with a fast, GPU-powered, cloud-native CFD solver and comprehensive high-fidelity capabilities.
 
 - [Nimbix](https://www.nimbix.net) - A comprehensive cloud computing solution powered by Atos, offering access to the HyperHub Application Marketplace with over 1,000 high-performance applications and workflows for diverse industries ([Repository](https://github.com/nimbix)).
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
