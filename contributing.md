@@ -11,7 +11,7 @@ If you discover any errors or missing information, create an issue in the reposi
 To add new content:
 
 - Ensure additions are relevant to cloud HPC.
-- Verify that your suggestion is not already listed in the under_review.md file.
+- Verify that your suggestion is not already listed in the issues.
 - Make your changes and ensure they adhere to the formatting style of the list.
 - Submit a pull request with a clear description of what you've done.
 
