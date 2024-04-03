@@ -61,6 +61,8 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
+- [JedAI Cloud](https://define-technology.com/jedai-cloud/) - Optimized HPC stacks enable easy cluster management and on-demand HPC through pre-integrated solutions, delivering bare metal infrastructure, virtualized services, and containerized apps via a single management interface by Define Tech.
+
 - [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015) - KT Cloud's HPC management product integrating Altair's solutions.
 <a href="#"><img src="https://img.shields.io/badge/kt_cloud-ff1a1a?style=flat" alt="kt cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
