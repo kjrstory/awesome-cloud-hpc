@@ -283,12 +283,7 @@ A curated list of cloud HPC.
 
 - [TAESUNG Cloud](https://www.tscloud.co.kr/CloudService) - Offering Ansys applications as a service in a cloud-based SaaS.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Uber Cloud](https://www.theubercloud.com) - A platform featuring HD 3D graphics desktop GUI, BYOL simulation software support, scalable container-based architecture, and automated cloud computing on AWS, Azure, Google, and HPE.
-<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-  
 ## CAE and EDA ISV
 
 - [3DEXPERIENCE platform on ther cloud](https://www.3ds.com/cloud) - Complete suite of industry-leading apps and software(CATIA, SIMULIA, DELMIA, 3DEXCITE, etc.) powered by Dassalut Systèmes.
