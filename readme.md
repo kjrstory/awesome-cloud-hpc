@@ -45,12 +45,12 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
+- [Cluster Toolkit](https://cloud.google.com/cluster-toolkit) - Google Cloud's open-source software for deploying AI/ML and high-performance computing environments on GCP, featuring customizable Terraform modules and Packer integration. ([Repository](https://github.com/GoogleCloudPlatform/cluster-toolkit)).
+<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [Flight Environment](https://www.openflighthpc.org/latest/docs/flight-environment/) - The Flight User Suite for improved HPC access through CLI tools, the Flight Web Suite as a web interface for HPC end-users, and the Flight Admin Tools for administrative HPC environment configuration.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-
-- [GCP HPC Toolkit](https://cloud.google.com/hpc-toolkit) - Google Cloud's open-source software for deploying high-performance computing environments on GCP, featuring customizable Terraform modules and Packer integration. ([Repository](https://github.com/GoogleCloudPlatform/hpc-toolkit)).
-<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [HPC-NOW](https://github.com/zhenrong-wang/hpc-now) - The platform aims to simplify the process of starting and managing HPC workloads in the cloud.
 <a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
