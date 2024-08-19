@@ -1,5 +1,5 @@
 
-# Awesome Cloud HPC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) 
+# Awesome Cloud HPC [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
 A curated list of cloud HPC.
 
@@ -72,7 +72,7 @@ A curated list of cloud HPC.
 - [OCI HPC Cluster](https://cloudmarketplace.oracle.com/marketplace/listing/67628143) - Automated HPC cluster deployment on OCI.
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [OCI HPC File System (HFS)](https://cloudmarketplace.oracle.com/marketplace/listing/75560175) - Solution for deploying various HPC file servers on OCI. Automated HPC cluster deployment on OCI.
-<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a> 
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [SCP HPC Cluster](https://www.samsungsds.com/en/compute-hpccluster/hpccluster.html) - HPC cluster environment on SCP.
 <a href="#"><img src="https://img.shields.io/badge/SCP-0066ff?style=flat" alt="scp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -80,7 +80,7 @@ A curated list of cloud HPC.
 - [Scyld Cloud Manager](https://www.penguinsolutions.com/products/software/scyld-cloud-manager) - Comprehensive management platform to cloud-enable Enterprise HPC.
 
 
-## IaaS-Server 
+## IaaS-Server
 
 - [Amazon EC2 Hpc7g](https://aws.amazon.com/ec2/instance-types/hpc7g/) - HPC-optimized instances powered by AWS Graviton3E processors.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -191,7 +191,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/OVHcloud-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D" alt="OVHcloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-## PaaS 
+## PaaS
 
 - [AWS Batch](https://aws.amazon.com/batch/) - Fully managed batch computing service.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -287,7 +287,7 @@ A curated list of cloud HPC.
 ## CAE and EDA ISV
 
 - [3DEXPERIENCE platform on ther cloud](https://www.3ds.com/cloud) - Complete suite of industry-leading apps and software(CATIA, SIMULIA, DELMIA, 3DEXCITE, etc.) powered by Dassalut Systèmes.
-  
+
 - [Altair One](https://altair.com/altair-one) - Cloud Gateway offering dynamic and collaborative access to simulation and data analytics technology, along with scalable HPC and cloud resources.
 - [Altair Unlimited](https://altair.com/altair-unlimited) - A turnkey, state-of-the-art private appliance available in both on-premises and cloud-based formats, offering unlimited access to a wide range of Altair HyperWorks solver software.
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - Cloud-based interactive workstations and HPC clusters, with flexible licensing that can be accessed from desktop.
@@ -319,7 +319,7 @@ A curated list of cloud HPC.
 ## Job Scheduler
 
 - [Altair Access](https://altair.com/access) - HPC Job Submission Portal for Researchers and Engineers.
-- [Altair Control](https://altair.com/control) - HPC Administrator's Control Center for Managing, Optimizing, and Forecasting Resources with seamless cloud bursting capabilities. 
+- [Altair Control](https://altair.com/control) - HPC Administrator's Control Center for Managing, Optimizing, and Forecasting Resources with seamless cloud bursting capabilities.
 - [Altair Grid Engine](https://altair.com/grid-engine) - Distributed Resource Management and Optimization.
 - [Altair HPCWorks](https://altair.com/altair-hpcworks) - High-Performance Computing (HPC) and Cloud Platform by Altair.
 - [Altair NavOps](https://altair.com/altair-navops) - Cloud Migration, Automation, and Spend Management for HPC.
@@ -337,6 +337,10 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/IBM%20Cloud-1261FE?style=flat&logo=IBM%20Cloud&logoColor=white" alt="ibm cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [Gridware Cluster Scheduler](https://www.hpc-gridware.com/) - Long-term supported HPC/AI workload manager and job scheduler based on Open Cluster Scheduler.
+
+- [Open Cluster Scheduler](https://github.com/hpc-gridware/go-clusterscheduler) - Open-source job scheduler for HPC and cloud environments (100% SGE compatible).
 
 - [Slurm on Google Cloud Platform](https://github.com/GoogleCloudPlatform/slurm-gcp) - Open-source software solution that enables setting up Slurm clusters on Google Cloud Platform with ease.
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -371,7 +375,7 @@ A curated list of cloud HPC.
 - [Azure HPC](https://github.com/Azure/azurehpc) - Easy automation scripts for building a HPC environment in Azure.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-- [Cloud MPI](https://github.com/GoogleCloudPlatform/hpc-tools) - Collection of scripts for optimizing MPI performance in tightly coupled HPC workloads on GCP Compute Engines. 
+- [Cloud MPI](https://github.com/GoogleCloudPlatform/hpc-tools) - Collection of scripts for optimizing MPI performance in tightly coupled HPC workloads on GCP Compute Engines.
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [Dynamic EC2 budget control](https://github.com/aws-samples/dynamic-ec2-budget-control) - Dynamic EC2 cores allocation limit for each business unit (BU), automatically adapted according to a past time frame (e.g. one week) spending on AWS Parallel Cluster.
@@ -390,4 +394,3 @@ A curated list of cloud HPC.
 - [Azure CycleCloud GridEngine](https://github.com/Azure/cyclecloud-gridengine)
 - [Azure CycleCloud HPC Pack](https://github.com/Azure/cyclecloud-hpcpack)
 - [Azure CycleCloud Autoscaling Library](https://github.com/Azure/cyclecloud-scalelib)
-
