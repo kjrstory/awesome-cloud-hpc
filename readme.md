@@ -213,6 +213,10 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
+- [AWS Parallel Computing Service](https://aws.amazon.com/pcs/) - Managed service for HPC cluster deployment and scaling on AWS using Slurm.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonaws&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Rntier Cloud](https://www.rntiercloud.com) - R&D cloud platform enabling easy and quick access to complex HPC simulations, vGPU-based remote 3D design, and multi-GPU deep learning environments via a web browser.
