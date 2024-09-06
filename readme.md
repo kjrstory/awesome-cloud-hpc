@@ -71,7 +71,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/OVH-%0050d7.svg?style=flat&logo=ovh&logoColor=white" alt="OVH" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OVH-0050d7.svg?style=flat&logo=ovh&logoColor=white" alt="OVH" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [Microsoft HPC Pack](https://learn.microsoft.com/en-us/powershell/high-performance-computing) - Creation and management tool of HPC clusters, enabling the use of Windows or Linux nodes on-premises and cloud resources in Azure.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -196,7 +196,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-<a href="#"><img src="https://img.shields.io/badge/OVHcloud-%23123F6D.svg?style=flat&logo=ovh&logoColor=#123F6D" alt="OVHcloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OVH-0050d7.svg?style=flat&logo=ovh&logoColor=white" alt="OVH" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 ## PaaS 
 
