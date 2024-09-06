@@ -45,6 +45,12 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
+- [Cluster in the Cloud](https://github.com/clusterinthecloud) - Multi cloud solution that uses Terraform for infrastructure setup, Ansible for software configuration, and Slurm with custom Python scripts for dynamic node management in cloud-based HPC environment.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [Cluster Toolkit](https://cloud.google.com/cluster-toolkit) - Google Cloud's open-source software for deploying AI/ML and high-performance computing environments on GCP, featuring customizable Terraform modules and Packer integration. ([Repository](https://github.com/GoogleCloudPlatform/cluster-toolkit)).
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
