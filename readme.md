@@ -308,6 +308,10 @@ A curated list of cloud HPC.
   
 - [Altair One](https://altair.com/altair-one) - Cloud Gateway offering dynamic and collaborative access to simulation and data analytics technology, along with scalable HPC and cloud resources.
 - [Altair Unlimited](https://altair.com/altair-unlimited) - A turnkey, state-of-the-art private appliance available in both on-premises and cloud-based formats, offering unlimited access to a wide range of Altair HyperWorks solver software.
+
+- [Ansys Access on Microsoft Azure](https://www.ansys.com/products/cloud/ansys-access) - Cloud-based simulation solution available on the Azure Marketplace, offering fast, scalable access to Ansys applications [Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/ansys.ansysaccessonmicrosoftazure?tab=overview)).
+<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - Cloud-based interactive workstations and HPC clusters, with flexible licensing that can be accessed from desktop.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Ansys Gateway by AWS](https://www.ansys.com/products/cloud/ansys-gateway) - Cloud-based solution for managing Ansys Simulation & CAD/CAE developments via a web browser.
