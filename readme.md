@@ -66,6 +66,13 @@ A curated list of cloud HPC.
 - [KT Cloud HPC](https://cloud.kt.com/product/productDetail?prodId=P000000015) - KT Cloud's HPC management product integrating Altair's solutions.
 <a href="#"><img src="https://img.shields.io/badge/kt_cloud-ff1a1a?style=flat" alt="kt cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
+- [Magic Castle](https://github.com/ComputeCanada/magic_castle) - Multi-cloud HPC cluster solution that leverages Terraform and Puppet for deployment, featuring job scheduling with Slurm and over 3000 research software applications.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Openstack-%23f01742.svg?style=flat&logo=openstack&logoColor=white" alt="openstack" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/OVH-%0050d7.svg?style=flat&logo=ovh&logoColor=white" alt="OVH" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+
 - [Microsoft HPC Pack](https://learn.microsoft.com/en-us/powershell/high-performance-computing) - Creation and management tool of HPC clusters, enabling the use of Windows or Linux nodes on-premises and cloud resources in Azure.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
