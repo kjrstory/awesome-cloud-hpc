@@ -35,7 +35,7 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [AWS ParallelCluster](https://aws.amazon.com/hpc/parallelcluster/) - Open source cluster management tool for deploying and managing HPC clusters ([Repository](https://github.com/aws/aws-parallelcluster)).
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [AWS Parallel Cluster UI](https://github.com/aws/aws-parallelcluster-ui) - Front-end for AWS ParallelCluster.
+- [AWS ParallelCluster UI](https://github.com/aws/aws-parallelcluster-ui) - Front-end for AWS ParallelCluster.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 - [Azure CycleCloud](https://learn.microsoft.com/en-us/azure/cyclecloud/) - Secure and flexible cloud HPC and Big Compute environments.
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
@@ -309,7 +309,7 @@ A curated list of cloud HPC.
 - [Altair One](https://altair.com/altair-one) - Cloud Gateway offering dynamic and collaborative access to simulation and data analytics technology, along with scalable HPC and cloud resources.
 - [Altair Unlimited](https://altair.com/altair-unlimited) - A turnkey, state-of-the-art private appliance available in both on-premises and cloud-based formats, offering unlimited access to a wide range of Altair HyperWorks solver software.
 
-- [Ansys Access on Microsoft Azure](https://www.ansys.com/products/cloud/ansys-access) - Cloud-based simulation solution available on the Azure Marketplace, offering fast, scalable access to Ansys applications [Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/ansys.ansysaccessonmicrosoftazure?tab=overview)).
+- [Ansys Access on Microsoft Azure](https://www.ansys.com/products/cloud/ansys-access) - Cloud-based simulation solution available on the Azure Marketplace, offering fast, scalable access to Ansys applications ([Marketplace](https://azuremarketplace.microsoft.com/marketplace/apps/ansys.ansysaccessonmicrosoftazure?tab=overview)).
 <a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [Ansys Cloud Direct](https://www.ansys.com/products/cloud/ansys-cloud) - Cloud-based interactive workstations and HPC clusters, with flexible licensing that can be accessed from desktop.
