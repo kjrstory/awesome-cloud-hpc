@@ -92,6 +92,10 @@ A curated list of cloud HPC.
 
 - [Scyld Cloud Manager](https://www.penguinsolutions.com/products/software/scyld-cloud-manager) - Comprehensive management platform to cloud-enable Enterprise HPC.
 
+- [TrinityX](https://github.com/clustervision/trinityX) - Next-gen open-source HPC, AI, and cloud platform offering customizable installations with efficient provisioning, SLURM/OpenPBS, OpenHPC, and more for modern cluster management.
+<a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/Azure-%230072C6.svg?style=flat&logo=microsoftazure&logoColor=white" alt="azure" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
+<a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 ## IaaS-Server 
 
