@@ -221,7 +221,7 @@ A curated list of cloud HPC.
 
 - [Batch](https://cloud.google.com/batch/)(GCP) - Fully managed batch service to schedule, queue, and execute batch jobs on Google's infrastructure.
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [Batch Compute](https://www.alibabacloud.com/ko/product/batch-compute) - Cloud service for massive simultaneous batch processing on Alibaba Cloud.
+- [Batch Compute](https://www.alibabacloud.com/en/product/batch-compute) - Cloud service for massive simultaneous batch processing on Alibaba Cloud.
 <a href="#"><img src="https://img.shields.io/badge/Alibaba_Cloud-FF6A00?style=flat&logo=alibabacloud&logoColor=white" alt="alibaba cloud" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [Covalent](https://www.covalent.xyz) - Pythonic workflow orchestration platform for scaling workloads from your laptop to any compute backend ([Repository](https://github.com/AgnostiqHQ/covalent)).
@@ -230,9 +230,9 @@ A curated list of cloud HPC.
 <a href="#"><img src="https://img.shields.io/badge/GCP-4285F4?style=flat&logo=google-cloud&logoColor=white" alt="gcp" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 <a href="#"><img src="https://img.shields.io/badge/OCI-F80000?style=flat&logo=oracle&logoColor=black" alt="oci" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
-- [NICE DCV](https://aws.amazon.com/ko/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming.
+- [Amazon DCV](https://aws.amazon.com/hpc/dcv/) - High-performance remote display protocol that provides customers with a secure way to deliver remote desktops and application streaming.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
-- [NICE EnginFrame](https://aws.amazon.com/hpc/enginframe/) - Unified interface to submit jobs for both on-premises and cloud workflow.
+- [NI SP EF Portal](https://www.ni-sp.com/ef-portal/) - Unified interface to submit jobs for both on-premises and cloud workflow.
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat&logo=amazonwebservices&logoColor=white" alt="aws" height="20px" style="vertical-align:bottom; margin: 0 6px;"></a>
 
 - [Research and Engineering Studio](https://aws.amazon.com/hpc/res/) - Open source, easy-to-use web-based portal for administrators to create and manage secure cloud-based research and engineering environments on AWS.
